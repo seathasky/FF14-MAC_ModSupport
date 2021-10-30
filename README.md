@@ -46,7 +46,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 **STEP 5:** Download and install the game fully inside your CX bottle, Link here: https://sqex.to/ffxiv_client_en 
 ------------------------------------------------------------------------------------------------------------
 
-**(OR)** copy the SE folder from a windows install (this makes things faster) and make sure to enable these settings after everything has been installed.
+**(OR)** copy the SE folder from a windows install into your bottle (this makes things faster)
 
 Alternatively you can skip to step 7. and install the game by launching XIVlauncher. **(Recommended but requires more steps)** ------------------------------------------------------------------------------------------------------------
 
