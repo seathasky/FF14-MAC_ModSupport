@@ -1,10 +1,13 @@
 # FF14 on MAC w/ Full Mod Support via Crossover 21
 **Alternative method of running FF14 on Mac + Mod Support.**
 
-**WARNING:**
-Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support! 
+This requires a legit copy of Crossover 21 or later to work! Cracked versions of CX will actually tank your performance.
+Support Codeweavers, it's worth it!
 
-This requires a copy of Crossover 21 or later to work!
+**WARNING:**
+Performance may vary, and M1 users have reported that they are doubling fps but using this method has no guarantee!
+
+(THIS METHOD MAY DEPRECIATE SHORTLY AS MARZENT IS WORKING ON AN EASIER WAY TO GET THIS UP AND RUNNING)
 
 ------------------------------------------------------------------------------------------------------------
 
