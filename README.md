@@ -1,7 +1,7 @@
 # FF14 on MAC w/ Full Mod Support via Crossover 21
 Alternative method of running FF14 on Mac + Mod Support.
 
-TLDR: Setup guide for gaining better performance in FF14 on Mac via Crossover instead of default launcher. WARNING: Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support!
+WARNING: Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support!
 
 =======================================================================
 
