@@ -24,9 +24,9 @@ Step 1:
 
 [![step1](https://i.imgur.com/sxyQpdb.png)]
 
-Step 2: 
+Step 2: Install dependencies
 
-[![step2](https://i.imgur.com/bBt5eGh.png)] 
+![step2](https://i.imgur.com/bBt5eGh.png)
 
 + 
 
