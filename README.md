@@ -81,8 +81,8 @@ Current issues and extra things to install for full functionality:
 
  * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT (Thanks Marzant)
 
- * Dalamud (XIVLauncher) Might require a portable install, meaning folder copied over from a preexisting Windows 10/11 install. If you need help on this, DM me.
-
+ * Dalamud (XIVLauncher) requires a portable install from the link I posted in step 7, meaning folder copied over from a preexisting Windows 10/11 install. 
+ 
  * If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit:
 ![regedit](https://i.imgur.com/LreO7Lv.png)
  hkey_current_user / Software / Wine / add string HideWineExports = 1  
