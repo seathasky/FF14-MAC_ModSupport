@@ -1,9 +1,10 @@
 # FF14 on MAC w/ Full Mod Support via Crossover 21
-Alternative method of running FF14 on Mac + Mod Support.
+**Alternative method of running FF14 on Mac + Mod Support.
 
-WARNING: Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support!
+**WARNING:**
+Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support!
 
-=======================================================================
+<p align=center>=======================================================================</center>
 
 So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I jerry rigged a version through Crossover 21 and am no joke getting twice the FPS with my current setup and also inspired other devs to get some mods working inside Mac.
 
