@@ -47,17 +47,17 @@ Current issues and extra things to install for full functionality:
 
 =======================================================================
 
-    in the file FFXIV_BOOT.cfg there is a line BrowserType 1, change that to BrowserType 0. That makes the launcher work as long as you press enter to log in instead of clicking.
+ * in the file FFXIV_BOOT.cfg there is a line BrowserType 1, change that to BrowserType 0. That makes the launcher work as long as you press enter to log in instead of clicking.
 
-    in the file FFXIV.cfg, there is a line with CutsceneMovieOpening, change that to CutsceneMovieOpening 1. this gets rid of the infinite black screen.
+ * in the file FFXIV.cfg, there is a line with CutsceneMovieOpening, change that to CutsceneMovieOpening 1. this gets rid of the infinite black screen.
 
-    ACT requires a custom script to function with networking. You can find it here: https://github.com/marzent/ffxiv-on-mac (Thanks Marzant)
+ * ACT requires a custom script to function with networking. You can find it here: https://github.com/marzent/ffxiv-on-mac (Thanks Marzant)
 
-    An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT (Thanks Marzant)
+ * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT (Thanks Marzant)
 
-    Dalamud (XIVLauncher) Might require a portable install, meaning folder copied over from a preexisting Windows 10/11 install. If you need help on this, DM me.
+ * Dalamud (XIVLauncher) Might require a portable install, meaning folder copied over from a preexisting Windows 10/11 install. If you need help on this, DM me.
 
-    If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit https://imgur.com/a/8OVPKED | hkey_current_user / Software / Wine / add string HideWineExports = 1 | This requires the script above found at marzents github to work (ffxiv-on-mac) (Thanks Marzent)
+ * If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit https://imgur.com/a/8OVPKED | hkey_current_user / Software / Wine / add string HideWineExports = 1 | This requires the script above found at marzents github to work (ffxiv-on-mac) (Thanks Marzent)
 
 =======================================================================
 
@@ -69,6 +69,6 @@ If I missed anything, holler at me or if you're having issues, maybe I can help.
 
 Good luck!
 
-HUGEEEE Shouts to Marzent, he's been a major part of getting a lot of these mods working! You can check out his github here: https://github.com/marzent
+**HUGEEEE Shouts to Marzent, he's been a major part of getting a lot of these mods working! You can check out his github here: https://github.com/marzent**
 
-This Guide has been Updated: 10-30-2021
+
