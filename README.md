@@ -83,7 +83,7 @@ Current issues and extra things to install for full functionality:
 
  * Dalamud (XIVLauncher) requires a portable install from the link I posted in step 7, meaning folder copied over from a preexisting Windows 10/11 install. 
  
- * If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit:
+ * If you want to use a FF14 windows license instead, add this HideWineExports string to your CX bottles regedit:
 ![regedit](https://i.imgur.com/LreO7Lv.png)
  hkey_current_user / Software / Wine / add string HideWineExports = 1  
  
