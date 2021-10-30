@@ -53,7 +53,7 @@ Alternatively you can skip to step 7. and install the game by launching XIVlaunc
 ------------------------------------------------------------------------------------------------------------
 **OPTIONAL STEP 6:** Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
 ------------------------------------------------------------------------------------------------------------
-OPTIONAL STEP 7:** Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
+**OPTIONAL STEP 7:** Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
 ------------------------------------------------------------------------------------------------------------
 Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
 
