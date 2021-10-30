@@ -9,9 +9,7 @@ So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on lates
 
 I posted a video of all mods and plugins working below if you want to see that full mod support is working on Mac:
 
-https://www.reddit.com/r/macgaming/comments/qi90p1/ff14_on_mac_os_hackintosh_w_full_mod_support_in/
-
-[![FF14MacCX](https://i.imgur.com/xmBSHRQ.png)](https://www.youtube.com/watch?v=SmH-8HdJkQY "Video showcasing mod support on Mac")
+[![FF14MacCX](https://i.imgur.com/GAuovPq.png)](https://www.youtube.com/watch?v=SmH-8HdJkQY "Video showcasing mod support on Mac")
 
 =======================================================================
 
