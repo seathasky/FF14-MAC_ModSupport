@@ -11,7 +11,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 https://www.reddit.com/r/macgaming/comments/qi90p1/ff14_on_mac_os_hackintosh_w_full_mod_support_in/
 
-http://seathasky.epizy.com/ffmac.mp4
+https://drive.google.com/uc?export=download&id=1t5QbEaKggCOV4byq0myXTR1YmluocyM7
 
 =======================================================================
 
