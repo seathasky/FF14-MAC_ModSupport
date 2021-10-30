@@ -4,7 +4,7 @@
 **WARNING:**
 Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support!
 
-<p align=center>================================================================================</center>
+------------------------------------------------------------------------------------------------------------
 
 So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I jerry rigged a version through Crossover 21 and am no joke getting twice the FPS with my current setup and also inspired other devs to get some mods working inside Mac.
 
@@ -12,11 +12,11 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 [![FF14MacCX](https://i.imgur.com/qHmZOoq.png)](https://www.youtube.com/watch?v=SmH-8HdJkQY "Video showcasing mod support on Mac")
 
-<p align=center>================================================================================</center>
+------------------------------------------------------------------------------------------------------------
 
 **Setup Guide here:
 
-<p align=center>================================================================================</center>
+------------------------------------------------------------------------------------------------------------
 
 **Make a new Win 10 x64 bottle by installing x64 dependencies.
 
@@ -42,11 +42,11 @@ If you installed XIVLauncher from step 6, you can run XIVLauncher.exe in your bo
 
 Read below for full mod support:
 
-=======================================================================
+------------------------------------------------------------------------------------------------------------
 
 Current issues and extra things to install for full functionality:
 
-=======================================================================
+------------------------------------------------------------------------------------------------------------
 
  * in the file FFXIV_BOOT.cfg there is a line BrowserType 1, change that to BrowserType 0. That makes the launcher work as long as you press enter to log in instead of clicking.
 
@@ -60,11 +60,11 @@ Current issues and extra things to install for full functionality:
 
  * If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit https://imgur.com/a/8OVPKED | hkey_current_user / Software / Wine / add string HideWineExports = 1 | This requires the script above found at marzents github to work (ffxiv-on-mac) (Thanks Marzent)
 
-=======================================================================
+------------------------------------------------------------------------------------------------------------
 
 Without XIV launcher installed the native launcher has some issues, you have to press enter to play after typing pw or the launcher freaks out, xivlauncher fixes this. but requires more dependencies and work. If you got this far i'm sure you can figure out xivlauncher, it's the easy part , just grab the latest .NET dependencies and it should work after copying the folder from a windows install.
 
-=======================================================================
+------------------------------------------------------------------------------------------------------------
 
 If I missed anything, holler at me or if you're having issues, maybe I can help. I've set it up a few times now to make sure it works!
 
