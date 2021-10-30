@@ -20,7 +20,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 **Make a new Win 10 x64 bottle by installing x64 dependencies.
 
-1: https://imgur.com/a/8H2RZtA
+1: [![step1](https://i.imgur.com/sxyQpdb.png)]
 
 2: https://imgur.com/a/ke5alqd + https://imgur.com/a/TmEFH83
 
