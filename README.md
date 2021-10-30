@@ -22,7 +22,10 @@ I posted a video of all mods and plugins working below if you want to see that f
 ------------------------------------------------------------------------------------------------------------
 ![step1](https://i.imgur.com/sxyQpdb.png)
 ------------------------------------------------------------------------------------------------------------
-**STEP 2:** Install dependencies
+**STEP 2:** Install the rest of the dependencies after bottle is made. 
+"Direct x for modern games" 
+"DXVK (builtin)"
+"Microsoft .NET Framework 4.8"
 ------------------------------------------------------------------------------------------------------------
 ![step2](https://i.imgur.com/bBt5eGh.png)
 
@@ -31,7 +34,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 ![step21](https://i.imgur.com/wygSZWz.png)
 
 ------------------------------------------------------------------------------------------------------------
-then repeat 2, by installing direct x for modern games, dxvk (builtin), and the ffxivsetup.exe as a bare minimum.
+
 
 ------------------------------------------------------------------------------------------------------------
 **STEP 3:** Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added:
