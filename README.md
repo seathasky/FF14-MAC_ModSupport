@@ -91,7 +91,7 @@ Current issues and extra things to install for full functionality:
 
 ------------------------------------------------------------------------------------------------------------
 
-Without XIV launcher installed the native launcher has some issues, you have to press enter to play after typing pw or the launcher freaks out, xivlauncher fixes this. but requires more dependencies and work. If you got this far i'm sure you can figure out xivlauncher, it's the easy part , just grab the latest .NET dependencies and it should work after copying the folder from a windows install.
+Without XIV launcher installed the native launcher has some issues, you have to press enter to play after typing pw or the launcher freaks out, xivlauncher fixes this. but requires more dependencies and work. If you got this far i'm sure you can figure out xivlauncher, it's the easy part, just grab the latest .NET dependencies and it should work after copying the folder from the link I provided above.
 
 ------------------------------------------------------------------------------------------------------------
 
