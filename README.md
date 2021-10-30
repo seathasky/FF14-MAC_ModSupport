@@ -61,8 +61,8 @@ You can make a command inside your bottle by finding the ffxivboot64.exe so you 
 
 If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
 
+------------------------------------------------------------------------------------------------------------
 Read below for full mod support:
-
 ------------------------------------------------------------------------------------------------------------
 
 Current issues and extra things to install for full functionality:
