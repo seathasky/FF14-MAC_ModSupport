@@ -4,7 +4,7 @@
 **WARNING:**
 Performance may vary, and M1 users will see little perfomance gains here, but you can still use this method for Mod support!
 
-<p align=center>=======================================================================</center>
+<p align=center>================================================================================</center>
 
 So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I jerry rigged a version through Crossover 21 and am no joke getting twice the FPS with my current setup and also inspired other devs to get some mods working inside Mac.
 
@@ -12,13 +12,13 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 [![FF14MacCX](https://i.imgur.com/qHmZOoq.png)](https://www.youtube.com/watch?v=SmH-8HdJkQY "Video showcasing mod support on Mac")
 
-=======================================================================
+<p align=center>================================================================================</center>
 
-Setup Guide here:
+**Setup Guide here:
 
-=======================================================================
+<p align=center>================================================================================</center>
 
-Make a new Win 10 x64 bottle by installing x64 dependencies.
+**Make a new Win 10 x64 bottle by installing x64 dependencies.
 
 1: https://imgur.com/a/8H2RZtA
 
