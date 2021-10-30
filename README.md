@@ -33,19 +33,20 @@ I posted a video of all mods and plugins working below if you want to see that f
 ------------------------------------------------------------------------------------------------------------
 then repeat 2, by installing direct x for modern games, dxvk (builtin), and the ffxivsetup.exe as a bare minimum.
 
+------------------------------------------------------------------------------------------------------------
 **STEP 3:** Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added:
 ------------------------------------------------------------------------------------------------------------
 ![step3](https://i.imgur.com/UtIE40Z.png )
 ------------------------------------------------------------------------------------------------------------
 **STEP 4:** Configure your new bottle with these settings: 
-
+------------------------------------------------------------------------------------------------------------
 ![step4](https://i.imgur.com/X6y0YQR.png )
 ------------------------------------------------------------------------------------------------------------
 **STEP 5:** Download the game fully inside your CX bottle, (or copy the SE folder from a windows install (this makes things faster) and make sure to enable these settings after everything has been installed. Alternative you can skip to step 7. and install the game this way as well by launching XIVlauncher.
 ------------------------------------------------------------------------------------------------------------
-OPTIONAL: 6: Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
+**OPTIONAL STEP 6:** Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
 ------------------------------------------------------------------------------------------------------------
-OPTIONAL: 7. Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
+OPTIONAL STEP 7:** Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
 ------------------------------------------------------------------------------------------------------------
 Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
 
