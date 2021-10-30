@@ -23,8 +23,11 @@ I posted a video of all mods and plugins working below if you want to see that f
 ![step1](https://i.imgur.com/sxyQpdb.png)
 ------------------------------------------------------------------------------------------------------------
 **STEP 2:** Install the rest of the dependencies after bottle is made. 
+
 "Direct x for modern games" 
+
 "DXVK (builtin)"
+
 "Microsoft .NET Framework 4.8"
 ------------------------------------------------------------------------------------------------------------
 ![step2](https://i.imgur.com/bBt5eGh.png)
