@@ -7,7 +7,7 @@ Support Codeweavers, it's worth it!
 **WARNING:**
 Performance may vary, and M1 users have reported that they are doubling fps but using this method has no guarantee!
 
-(THIS METHOD MAY DEPRECIATE SHORTLY AS MARZENT IS WORKING ON AN EASIER WAY TO GET THIS UP AND RUNNING)
+(THIS METHOD MAY DEPRECIATE SHORTLY, MARZENT (ANOTHER DEV) IS WORKING ON AN EASIER WAY TO GET THIS UP AND RUNNING FOR EVERYONE)
 
 ------------------------------------------------------------------------------------------------------------
 
