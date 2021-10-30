@@ -12,7 +12,9 @@ I posted a video of all mods and plugins working below if you want to see that f
 https://www.reddit.com/r/macgaming/comments/qi90p1/ff14_on_mac_os_hackintosh_w_full_mod_support_in/
 
 =======================================================================
+
 Setup Guide here:
+
 =======================================================================
 
 Make a new Win 10 x64 bottle by installing x64 dependencies.
