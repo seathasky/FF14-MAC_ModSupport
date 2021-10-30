@@ -62,7 +62,7 @@ You can make a command inside your bottle by finding the ffxivboot64.exe so you 
 If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
 
 ------------------------------------------------------------------------------------------------------------
-**OPTIONAL STEP 8:** Install this script for full network support via WinPcap Network inside ACT: https://github.com/marzent/ffxiv-on-mac  It also fixes any network errors if you are having them while installing the game.
+**OPTIONAL STEP 8:** Install this script for full network support in ACT. (Also change network to WinPcap Network in ACT Settings): https://github.com/marzent/ffxiv-on-mac  This script also fixes any network errors if you are having them while installing the game.
 ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------
