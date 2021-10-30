@@ -62,6 +62,10 @@ You can make a command inside your bottle by finding the ffxivboot64.exe so you 
 If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
 
 ------------------------------------------------------------------------------------------------------------
+**OPTIONAL STEP 8:** Install this script for full network support via WinPcap Network inside ACT: https://github.com/marzent/ffxiv-on-mac  It also fixes any network errors if you are having them while installing the game.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
 Read below for full mod support:
 ------------------------------------------------------------------------------------------------------------
 
@@ -73,7 +77,7 @@ Current issues and extra things to install for full functionality:
 
  * in the file FFXIV.cfg, there is a line with CutsceneMovieOpening, change that to CutsceneMovieOpening 1. this gets rid of the infinite black screen.
 
- * ACT requires a custom script to function with networking. You can find it here: https://github.com/marzent/ffxiv-on-mac (Thanks Marzant)
+ * ACT requires a custom script to function with networking. You can find it here: https://github.com/marzent/ffxiv-on-mac This also fixes network issue w/ FF14 installation if you have any. (Thanks Marzant)
 
  * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT (Thanks Marzant)
 
