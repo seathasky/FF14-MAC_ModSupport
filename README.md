@@ -18,29 +18,34 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 ------------------------------------------------------------------------------------------------------------
 
-**Make a new Win 10 x64 bottle by installing x64 dependencies.**
+**STEP 1:**  Make a new Win 10 x64 bottle by installing x64 dependencies.
 
-Step 1: 
+![step1](https://i.imgur.com/sxyQpdb.png)
 
-[![step1](https://i.imgur.com/sxyQpdb.png)]
-
-Step 2: Install dependencies
+** STEP 2:** Install dependencies
 
 ![step2](https://i.imgur.com/bBt5eGh.png)
 
 + 
 
-[![step2.1](https://i.imgur.com/wygSZWz.png)]
+![step21](https://i.imgur.com/wygSZWz.png)
+
 
 then repeat 2, by installing direct x for modern games, dxvk (builtin), and the ffxivsetup.exe as a bare minimum.
 
-3: Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added: https://imgur.com/a/1LJaaTe
+**STEP 3:** Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added:
 
-4: Download the game fully inside your CX bottle, (or copy the SE folder from a windows install (this makes things faster) and make sure to enable these settings after everything has been installed. https://imgur.com/a/Shvja28 Alternative you can skip to step 6. and install the game this way as well by launching XIVlauncher.
+![step3](https://i.imgur.com/UtIE40Z.png )
 
-OPTIONAL: 5: Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
+**STEP 4:** Configure your new bottle with these settings: 
 
-OPTIONAL: 6. Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
+![step4](https://i.imgur.com/X6y0YQR.png )
+
+**STEP 5:** Download the game fully inside your CX bottle, (or copy the SE folder from a windows install (this makes things faster) and make sure to enable these settings after everything has been installed. Alternative you can skip to step 7. and install the game this way as well by launching XIVlauncher.
+
+OPTIONAL: 6: Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
+
+OPTIONAL: 7. Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
 
 Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
 
@@ -66,7 +71,11 @@ Current issues and extra things to install for full functionality:
 
  * Dalamud (XIVLauncher) Might require a portable install, meaning folder copied over from a preexisting Windows 10/11 install. If you need help on this, DM me.
 
- * If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit https://imgur.com/a/8OVPKED | hkey_current_user / Software / Wine / add string HideWineExports = 1 | This requires the script above found at marzents github to work (ffxiv-on-mac) (Thanks Marzent)
+ * If you want to use a FF14 windows license instead, add this HideWineExports string to you CX bottles regedit:
+![regedit](https://i.imgur.com/LreO7Lv.png)
+ hkey_current_user / Software / Wine / add string HideWineExports = 1  
+ 
+ This requires the script above found at marzents github to work (ffxiv-on-mac) (Thanks Marzent)
 
 ------------------------------------------------------------------------------------------------------------
 
