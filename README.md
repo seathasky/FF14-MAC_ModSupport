@@ -12,9 +12,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 https://www.reddit.com/r/macgaming/comments/qi90p1/ff14_on_mac_os_hackintosh_w_full_mod_support_in/
 
 =======================================================================
-
 Setup Guide here:
-
 =======================================================================
 
 Make a new Win 10 x64 bottle by installing x64 dependencies.
@@ -36,6 +34,8 @@ OPTIONAL: 6. Download XIVLauncher manually from this link. Copy it anywhere into
 Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
 
 You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.
+
+If you installed XIVLauncher from step 6, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
 
 Read below for full mod support:
 
