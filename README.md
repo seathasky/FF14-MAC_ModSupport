@@ -18,11 +18,11 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 ------------------------------------------------------------------------------------------------------------
 
-**Make a new Win 10 x64 bottle by installing x64 dependencies.
+**Make a new Win 10 x64 bottle by installing x64 dependencies.**
 
 1: [![step1](https://i.imgur.com/sxyQpdb.png)]
 
-2: https://imgur.com/a/ke5alqd + https://imgur.com/a/TmEFH83
+2: [![step2](https://i.imgur.com/bBt5eGh.png)] + https://imgur.com/a/TmEFH83
 
 then repeat 2, by installing direct x for modern games, dxvk (builtin), and the ffxivsetup.exe as a bare minimum.
 
