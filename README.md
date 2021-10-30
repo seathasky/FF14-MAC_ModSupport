@@ -73,7 +73,6 @@ Read below for full mod support:
 
 Current issues and extra things to install for full functionality:
 
-------------------------------------------------------------------------------------------------------------
 
  * in the file FFXIV_BOOT.cfg there is a line BrowserType 1, change that to BrowserType 0. That makes the launcher work as long as you press enter to log in instead of clicking.
 
