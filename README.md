@@ -43,7 +43,13 @@ I posted a video of all mods and plugins working below if you want to see that f
 ------------------------------------------------------------------------------------------------------------
 ![step4](https://i.imgur.com/X6y0YQR.png )
 ------------------------------------------------------------------------------------------------------------
-**STEP 5:** Download the game fully inside your CX bottle, (or copy the SE folder from a windows install (this makes things faster) and make sure to enable these settings after everything has been installed. Alternative you can skip to step 7. and install the game this way as well by launching XIVlauncher.
+**STEP 5:** Download the game fully inside your CX bottle, Link here: https://sqex.to/ffxiv_client_en 
+------------------------------------------------------------------------------------------------------------
+
+**(OR) copy the SE folder from a windows install (this makes things faster) and make sure to enable these settings after everything has been installed. 
+
+Alternatively you can skip to step 7. and install the game this way as well by launching XIVlauncher.
+
 ------------------------------------------------------------------------------------------------------------
 **OPTIONAL STEP 6:** Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
 ------------------------------------------------------------------------------------------------------------
