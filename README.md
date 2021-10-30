@@ -59,7 +59,7 @@ Run the game from the c: drive manually (Users/USERNAME/Library/Application Supp
 
 You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.
 
-If you installed XIVLauncher from step 6, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
+If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
 
 Read below for full mod support:
 
