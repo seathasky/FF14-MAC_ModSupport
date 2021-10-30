@@ -22,7 +22,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 ------------------------------------------------------------------------------------------------------------
 ![step1](https://i.imgur.com/sxyQpdb.png)
 ------------------------------------------------------------------------------------------------------------
-** STEP 2:** Install dependencies
+**STEP 2:** Install dependencies
 ------------------------------------------------------------------------------------------------------------
 ![step2](https://i.imgur.com/bBt5eGh.png)
 
