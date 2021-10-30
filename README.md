@@ -6,7 +6,7 @@ Performance may vary, and M1 users will see little perfomance gains here, but yo
 
 ------------------------------------------------------------------------------------------------------------
 
-So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I jerry rigged a version through Crossover 21 and am no joke getting twice the FPS with my current setup and also inspired other devs to get some mods working inside Mac.
+So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I jerry rigged a version through Crossover 21 and am no joke getting twice the FPS with my current setup and also inspired other devs to get some mods working inside Mac. **HUGEEEE Shouts to Marzent, he's been a major part of getting a lot of these mods working! You can check out his github here: https://github.com/marzent**
 
 I posted a video of all mods and plugins working below if you want to see that full mod support is working on Mac:
 
@@ -91,10 +91,9 @@ Without XIV launcher installed the native launcher has some issues, you have to 
 
 ------------------------------------------------------------------------------------------------------------
 
-If I missed anything, holler at me or if you're having issues, maybe I can help. I've set it up a few times now to make sure it works!
+If I missed anything, holler at me through the issue tracker here, and i'll try and assist. 
 
 Good luck!
 
-**HUGEEEE Shouts to Marzent, he's been a major part of getting a lot of these mods working! You can check out his github here: https://github.com/marzent**
 
 
