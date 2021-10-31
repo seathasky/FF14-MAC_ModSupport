@@ -124,9 +124,18 @@ If you copied XIVlauncher from the folder provided you will need to manually add
 If you went with the installer, it will populate your bottle automatically. 
 ![xivl](https://i.imgur.com/PXiWuph.png!)
 
+------------------------------------------------------------------------------------------------------------
+**STEP 8:** - Gshade:
+------------------------------------------------------------------------------------------------------------
+Install the windows version Gshade into you FF14 bottle. https://gposers.com/gshade/
+Follow the gshade setup and use the prefix from your CX FF14 bottle.
+
+After install, open wine configuration:
+![wconf](https://i.imgur.com/oBp3UPL.png!)
+
 
 ------------------------------------------------------------------------------------------------------------
-**STEP 8 (optional)** - So you want to use your FF14 Windows License instead of the Mac one.
+**STEP 9 (optional)** - So you want to use your FF14 Windows License instead of the Mac one.
 ------------------------------------------------------------------------------------------------------------
  
  If you want to use a FF14 windows license instead, add this HideWineExports string to your CX bottles regedit:
