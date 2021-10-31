@@ -175,7 +175,8 @@ Alot of mod related issues can be fixed by first installing this script: https:/
  
 Dalamud plugin not loading on launch? Restart your game and crossover. Sometimes this happens. (No known fix)
  
-Mods have been tested and working on latest Mac OS Catalina and Mac OS Big Sur Mac.
+Mods have been tested and working on latest Mac OS Catalina and Mac OS Big Sur.
+ 
 Mac OS Monterey support is unknown at this time.
 
 ------------------------------------------------------------------------------------------------------------
