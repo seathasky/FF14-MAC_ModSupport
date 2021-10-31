@@ -141,6 +141,7 @@ New override for library: d3dcompiler_47 - edit to (native)
 
 New override for library: d3dcompiler_47 - edit to (native, builtin)
 ![dxgi](https://i.imgur.com/hCykZj8.png!)
+
 ------------------------------------------------------------------------------------------------------------
 These need to be set prior to running game after installing Gshade.
 
