@@ -80,9 +80,13 @@ After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, 
 ![lo](https://i.imgur.com/15zBdZj.png) 
 Do not add any overlay directly from ACT, you will be using Bunny-HUD in the next step for overlays.
 
- * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! You will need this if you want DPS Meters and Cactbot Overlays. 
+ * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. 
+ 
+ You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! You will need this if you want DPS Meters and Cactbot Overlays. 
+ 
 ![bunny](https://i.imgur.com/yzYbyBC.png)
- Default ACT overlays are not working, this APP is required!. (Thanks Marzant)
+
+ Default ACT overlays are not working, this APP is 100% required! (Thanks Marzant)
  
  ------------------------------------------------------------------------------------------------------------
 
