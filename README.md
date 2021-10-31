@@ -68,6 +68,12 @@ Copy below:
 **STEP 5:** Download and install the game fully inside your CX bottle, Link here: https://sqex.to/ffxiv_client_en 
 ------------------------------------------------------------------------------------------------------------
 
+When installing ffxivsetup.exe, ensure that CX21 is set to the "Unlisted application" template:
+
+![step5](https://i.imgur.com/MTuACnt.png )
+
+The official "Final Fantasy XIV" template is broken and will break the bottle if you try to use it.
+
 **(OR)** copy the SE folder from a windows install into your bottle (this makes things faster)
 
 Alternatively you can skip to step 7. and install the game by launching XIVlauncher. **(Recommended but requires more steps)** 
