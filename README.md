@@ -79,7 +79,7 @@ mods will not work! Download and install the install script from here: https://g
 **STEP 6 - ACT Parser:** 
 ------------------------------------------------------------------------------------------------------------
 
-Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
+Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php 
 
 ACT requires the custom script to function with networking. Downloading and running the script provided above will patch your CX21 bottle and fix networking issues.
  
