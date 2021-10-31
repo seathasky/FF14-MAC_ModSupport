@@ -68,22 +68,23 @@ If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bo
 **OPTIONAL STEP 8:** Install this script for full network support in ACT. (Also change network to WinPcap Network in ACT Settings): https://github.com/marzent/ffxiv-on-mac  This script also fixes any network errors if you are having them while installing the game.
 ------------------------------------------------------------------------------------------------------------
 
+
 ------------------------------------------------------------------------------------------------------------
-Read below for full mod support:
+Installing ACT and Getting Plugins to work:
 ------------------------------------------------------------------------------------------------------------
+ * ACT requires a custom script to function with networking. Downloading and running the script provided here will patch your CX21 bottle and fix networking issues.
+ACT Networking will only work through WinPcap. Enable this after installing the script above.
+![pcap](https://i.imgur.com/YDllprc.png) 
 
-Current issues and extra things to install for full functionality:
-
-
- * in the file FFXIV_BOOT.cfg there is a line BrowserType 1, change that to BrowserType 0. That makes the launcher work as long as you press enter to log in instead of clicking.
-
- * in the file FFXIV.cfg, there is a line with CutsceneMovieOpening, change that to CutsceneMovieOpening 1. this gets rid of the infinite black screen.
-
- * ACT requires a custom script to function with networking. You can find it here: https://github.com/marzent/ffxiv-on-mac This also fixes network issue w/ FF14 installation if you have any. (Thanks Marzant)
+After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) and enable Local Overlay here:
+![lo](https://i.imgur.com/15zBdZj.png) 
+Do not add any overlay directly from ACT, you will be using Bunny-HUD in the next step for overlays.
 
  * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! You will need this if you want DPS Meters and Cactbot Overlays. 
 ![bunny](https://i.imgur.com/yzYbyBC.png)
  Default ACT overlays are not working, this APP is required!. (Thanks Marzant)
+ 
+ ------------------------------------------------------------------------------------------------------------
 
  * Dalamud (XIVLauncher) requires a portable install from the link I posted in step 7, meaning folder copied over from a preexisting Windows 10/11 install. 
  
