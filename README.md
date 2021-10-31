@@ -107,10 +107,10 @@ Download & copy the portible XIVlauncher folder anywhere into your bottle prefix
 
 **(OR)** Download Mac CX Installer here: https://github.com/marzent/ffxiv-on-mac/blob/main/XIVLauncherWine.exe and install into you FF14 bottle.
 
-If you copied XIVlauncher from the folder provided you will need to manually, you will need to manually add/run XIVLauncher.exe via command inside your bottle.
+If you copied XIVlauncher from the folder provided you will need to manually add/run XIVLauncher.exe via command inside your bottle.
+
 If you went with the installer, it will populate your bottle automatically. 
 ![xivl](https://i.imgur.com/PXiWuph.png!)
-
 
 
 ------------------------------------------------------------------------------------------------------------
