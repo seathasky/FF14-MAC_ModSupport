@@ -104,11 +104,12 @@ You will need this for full overlay support in ACT. Sort of like Hudkit on linux
 **STEP 7 - XIVLauncher and Plugin support**:
 ------------------------------------------------------------------------------------------------------------
 Download & copy the portible XIVlauncher folder anywhere into your bottle prefix. https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing 
+
 **(OR)** Download Mac CX Installer here: https://github.com/marzent/ffxiv-on-mac/blob/main/XIVLauncherWine.exe and install into you FF14 bottle.
 
 If you copied XIVlauncher from the folder provided you will need to manually, you will need to manually add/run XIVLauncher.exe via command inside your bottle.
 If you went with the installer, it will populate your bottle automatically. 
-[xivl](https://i.imgur.com/PXiWuph.png!)
+![xivl](https://i.imgur.com/PXiWuph.png!)
 
 
 
