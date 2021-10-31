@@ -86,8 +86,14 @@ This concludes setup guide for minimal install of FF14 in CX21. Continue below f
 ------------------------------------------------------------------------------------------------------------
 
 Before you continue any of these next steps, you will need to run this script to patch your Crossover 21. If you do not do this,
-most mods will not work! This script also is currently only supported for those with a FF14 Windows game license. Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
-Xivlauncher plugin support may require a FF14 Windows game license due to how it authentication. You can read more that progress here:  
+most mods will not work! This script also is currently only supported for those with a FF14 Windows game license. 
+
+Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
+
+Xivlauncher plugin support may require a FF14 Windows game license due to how it authenticates. 
+
+You can read more about Mac license progress here:  
+
 https://github.com/goatcorp/FFXIVQuickLauncher/pull/572
 
 ------------------------------------------------------------------------------------------------------------
