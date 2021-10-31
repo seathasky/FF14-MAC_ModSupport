@@ -127,11 +127,22 @@ If you went with the installer, it will populate your bottle automatically.
 ------------------------------------------------------------------------------------------------------------
 **STEP 8:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
-Install the windows version Gshade into you FF14 bottle. https://gposers.com/gshade/
+Install the windows version Gshade into your FF14 bottle. https://gposers.com/gshade/
 Follow the gshade setup and use the prefix from your CX FF14 bottle.
 
 After install, open wine configuration:
 ![wconf](https://i.imgur.com/oBp3UPL.png!)
+
+------------------------------------------------------------------------------------------------------------
+Add these overrides and edit their load orders:
+
+New override for library: d3dcompiler_47 - edit to (native)
+![dcom](https://i.imgur.com/BZGFwPw.png!)
+
+New override for library: d3dcompiler_47 - edit to (native, builtin)
+![dxgi](https://i.imgur.com/hCykZj8.png!)
+------------------------------------------------------------------------------------------------------------
+These need to be set prior to running game after installing Gshade.
 
 
 ------------------------------------------------------------------------------------------------------------
