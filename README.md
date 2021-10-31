@@ -74,7 +74,7 @@ Installing ACT and Getting Plugins to work:
 ------------------------------------------------------------------------------------------------------------
  * ACT requires a custom script to function with networking. Downloading and running the script provided here: https://github.com/marzent/ffxiv-on-mac will patch your CX21 bottle and fix networking issues.
  
-ACT Networking will only work through WinPcap. Enable this after installing the script above.
+ACT Networking will only work through WinPcap. Enable this in ACT settings after installing the script above.
 ![pcap](https://i.imgur.com/YDllprc.png) 
 
 After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) and enable Local Overlay here by pressing start:
