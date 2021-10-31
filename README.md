@@ -81,7 +81,9 @@ Current issues and extra things to install for full functionality:
 
  * ACT requires a custom script to function with networking. You can find it here: https://github.com/marzent/ffxiv-on-mac This also fixes network issue w/ FF14 installation if you have any. (Thanks Marzant)
 
- * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! (Thanks Marzant)
+ * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! You will need this if you want DPS Meters and Cactbot Overlays. 
+![bunny](https://i.imgur.com/yzYbyBC.png)
+ Default ACT overlays are not working, this APP is required!. (Thanks Marzant)
 
  * Dalamud (XIVLauncher) requires a portable install from the link I posted in step 7, meaning folder copied over from a preexisting Windows 10/11 install. 
  
