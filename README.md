@@ -141,7 +141,7 @@ New override for library: d3dcompiler_47 - edit to (native)
 
 ![dcom](https://i.imgur.com/BZGFwPw.png!)
 
-New override for library: d3dcompiler_47 - edit to (native, builtin)
+New override for library: dxgi - edit to (native, builtin)
 
 ![dxgi](https://i.imgur.com/hCykZj8.png!)
 
