@@ -129,9 +129,9 @@ Without XIV launcher installed the native launcher has some issues, you have to 
 
 Alot of mod related issues can be fixed by first installing this script: https://github.com/marzent/ffxiv-on-mac
 
-------------------------------------------------------------------------------------------------------------
+If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
 
-If I missed anything, holler at me through the issue tracker here, and i'll try and assist. 
+------------------------------------------------------------------------------------------------------------
 
 Good luck!
 
