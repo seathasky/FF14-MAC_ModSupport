@@ -15,17 +15,20 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 [![FF14MacCX](https://i.imgur.com/qHmZOoq.png)](https://www.youtube.com/watch?v=SmH-8HdJkQY "Video showcasing mod support on Mac")
 
-------------------------------------------------------------------------------------------------------------
-
-**Setup Guide:**
 
 ------------------------------------------------------------------------------------------------------------
+**Minimal Setup Guide:** 
+------------------------------------------------------------------------------------------------------------
+These first 5 steps are for a basic setup without mod support. If you want full mod support continue the guide after Step 5.
 
+------------------------------------------------------------------------------------------------------------
 **STEP 1:**  Make a new Win 10 x64 bottle by installing x64 dependencies.
 ------------------------------------------------------------------------------------------------------------
+
 ![step1](https://i.imgur.com/sxyQpdb.png)
 ![step2](https://i.imgur.com/bBt5eGh.png)
 ![step21](https://i.imgur.com/wygSZWz.png)
+
 ------------------------------------------------------------------------------------------------------------
 **STEP 2:** Install the rest of the dependencies after bottle is made. 
 ------------------------------------------------------------------------------------------------------------
@@ -40,11 +43,15 @@ I posted a video of all mods and plugins working below if you want to see that f
 ------------------------------------------------------------------------------------------------------------
 **STEP 3:** Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added:
 ------------------------------------------------------------------------------------------------------------
+
 ![step3](https://i.imgur.com/UtIE40Z.png )
+
 ------------------------------------------------------------------------------------------------------------
 **STEP 4:** Configure your new bottle with these settings: 
 ------------------------------------------------------------------------------------------------------------
+
 ![step4](https://i.imgur.com/X6y0YQR.png )
+
 ------------------------------------------------------------------------------------------------------------
 **STEP 5:** Download and install the game fully inside your CX bottle, Link here: https://sqex.to/ffxiv_client_en 
 ------------------------------------------------------------------------------------------------------------
@@ -53,26 +60,28 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 Alternatively you can skip to step 7. and install the game by launching XIVlauncher. **(Recommended but requires more steps)** 
 
-------------------------------------------------------------------------------------------------------------
-**OPTIONAL STEP 6:** Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
-------------------------------------------------------------------------------------------------------------
-**OPTIONAL STEP 7:** Download XIVLauncher manually from this link. Copy it anywhere into your bottle prefix. And run the XIVLauncher.exe https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing
-------------------------------------------------------------------------------------------------------------
 Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
 
 You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.
 
 If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
 
-------------------------------------------------------------------------------------------------------------
-**OPTIONAL STEP 8:** Install this script for full network support in ACT. (Also change network to WinPcap Network in ACT Settings): https://github.com/marzent/ffxiv-on-mac  This script also fixes any network errors if you are having them while installing the game.
-------------------------------------------------------------------------------------------------------------
+This concludes setup guide for minimal install of FF14 in CX21. Continue below for mod support.
 
 
 ------------------------------------------------------------------------------------------------------------
-Installing ACT and Getting Plugins to work:
+**Continued Setup Guide for Mod Support:** 
 ------------------------------------------------------------------------------------------------------------
- * ACT requires a custom script to function with networking. Downloading and running the script provided here: https://github.com/marzent/ffxiv-on-mac will patch your CX21 bottle and fix networking issues.
+Before you continue any of these next steps, you will need to run this script to patch your Crossover 21. If you do not do this,
+mods will not work! Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
+
+------------------------------------------------------------------------------------------------------------
+**STEP 6 - ACT Parser:** 
+------------------------------------------------------------------------------------------------------------
+
+Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
+
+ACT requires the custom script to function with networking. Downloading and running the script provided above will patch your CX21 bottle and fix networking issues.
  
 ACT Networking will only work through WinPcap. Enable this in ACT settings after installing the script above.
 ![pcap](https://i.imgur.com/YDllprc.png) 
@@ -83,33 +92,49 @@ After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, 
 
 Do not add any overlay directly from ACT, you will be using Bunny-HUD in the next step for overlays.
 
- * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. 
+An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. 
  
- You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! You will need this if you want DPS Meters and Cactbot Overlays. 
+You will need this for full overlay support in ACT. Sort of like Hudkit on linux but 100x better because it is! You will need this if you want DPS Meters and Cactbot Overlays. 
  
 ![bunny](https://i.imgur.com/yzYbyBC.png)
 
  Default ACT overlays are not working, this APP is 100% required! (Thanks Marzant)
  
- ------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+**STEP 7 - XIVLauncher and Plugin support**:
+------------------------------------------------------------------------------------------------------------
+Download & copy the portible XIVlauncher folder anywhere into your bottle prefix. https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing 
+**(OR)** Download Mac CX Installer here: https://github.com/marzent/ffxiv-on-mac/blob/main/XIVLauncherWine.exe and install into you FF14 bottle.
 
- * Dalamud (XIVLauncher) requires a portable install from the link I posted in step 7, meaning folder copied over from a preexisting Windows 10/11 install. 
+If you copied XIVlauncher from the folder provided you will need to manually, you will need to manually add/run XIVLauncher.exe via command inside your bottle.
+If you went with the installer, it will populate your bottle automatically. 
+[xivl](https://i.imgur.com/PXiWuph.png!)
+
+
+
+------------------------------------------------------------------------------------------------------------
+**STEP 8 (optional)** - So you want to use your FF14 Windows License instead of the Mac one.
+------------------------------------------------------------------------------------------------------------
  
- * If you want to use a FF14 windows license instead, add this HideWineExports string to your CX bottles regedit:
+ If you want to use a FF14 windows license instead, add this HideWineExports string to your CX bottles regedit:
 ![regedit](https://i.imgur.com/LreO7Lv.png)
  hkey_current_user / Software / Wine / add string HideWineExports = 1  
- 
- This requires the script above found at marzents github to work (ffxiv-on-mac) (Thanks Marzent)
 
+------------------------------------------------------------------------------------------------------------
+Troubleshooting:
 ------------------------------------------------------------------------------------------------------------
 
 Without XIV launcher installed the native launcher has some issues, you have to press enter to play after typing pw or the launcher freaks out, xivlauncher fixes this. but requires more dependencies and work. If you got this far i'm sure you can figure out xivlauncher, it's the easy part, just grab the latest .NET dependencies and it should work after copying the folder from the link I provided above.
+
+Alot of mod related issues can be fixed by first installing this script: https://github.com/marzent/ffxiv-on-mac
 
 ------------------------------------------------------------------------------------------------------------
 
 If I missed anything, holler at me through the issue tracker here, and i'll try and assist. 
 
 Good luck!
+
+*-Seathasky
 
 
 
