@@ -51,7 +51,7 @@ I posted a video of all mods and plugins working below if you want to see that f
 
 **(OR)** copy the SE folder from a windows install into your bottle (this makes things faster)
 
-Alternatively you can skip to step 7. and install the game by launching XIVlauncher. **(Recommended but requires more steps)** ------------------------------------------------------------------------------------------------------------
+Alternatively you can skip to step 7. and install the game by launching XIVlauncher. **(Recommended but requires more steps)** 
 
 ------------------------------------------------------------------------------------------------------------
 **OPTIONAL STEP 6:** Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php (read below for networking/bunny hud support. A script is needed for full functionality.
