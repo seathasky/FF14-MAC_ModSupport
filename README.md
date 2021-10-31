@@ -127,7 +127,7 @@ If you went with the installer, it will populate your bottle automatically.
 ------------------------------------------------------------------------------------------------------------
 **STEP 8:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
-Install the windows version Gshade into your FF14 bottle. https://gposers.com/gshade/
+Install the Windows version Gshade into your FF14 bottle. https://gposers.com/gshade/
 Follow the gshade setup and use the prefix from your CX FF14 bottle.
 
 After install, open wine configuration:
