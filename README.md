@@ -48,7 +48,7 @@ Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/
 ![step3](https://i.imgur.com/UtIE40Z.png )
 
 Copy below:
-
+{
  "WINEESYNC" = "1"
  "XL_WINEONLINUX" = "true"
  "DXVK_HUD" = "fps"
@@ -56,6 +56,7 @@ Copy below:
  "GL_SHADER_DISK_CACHE_SKIP_CLEANUP" = "1"
  "MESA_GLTHREAD" = "1"
  "HARMONY_DEBUG" = "1"
+ }
  
 ------------------------------------------------------------------------------------------------------------
 **STEP 4:** Configure your new bottle with these settings: 
