@@ -6,7 +6,7 @@ Support Codeweavers, it's worth it! https://www.codeweavers.com/
 
 **WARNING:**
 Performance may vary, and M1 users have reported that they are doubling fps but using this method has no guarantee!
-This guide is a 100% manual install guide. If you need assistance, post on the issue tracker.
+This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Some steps maybe require a FF14 Windows game license to work fully.
 ------------------------------------------------------------------------------------------------------------
 
 So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I wrapped a fresh FF14 install through Crossover 21 and am getting almost twice the FPS with my current setup. This has inspired other devs to get some mods working inside Mac. **Big shout to Marzent, he's been a major part of getting a lot of these mods working! You can check out his github here: https://github.com/marzent**
