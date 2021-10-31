@@ -139,6 +139,12 @@ Troubleshooting:
 
 Without XIV launcher installed the native launcher has some issues, you have to press enter to play after typing pw or the launcher freaks out, xivlauncher fixes this. but requires more dependencies and work. If you got this far i'm sure you can figure out xivlauncher, it's the easy part, just grab the latest .NET dependencies and it should work after copying the folder from the link I provided above.
 
+If you are using default launcher use these fixes:
+Open FFXIV_BOOT.cfg and change these settings "Browser = 1" 
+
+open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0" 
+(both files are in .drive_c/users/<my username>/My Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/
+
 Alot of mod related issues can be fixed by first installing this script: https://github.com/marzent/ffxiv-on-mac
 
 If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
