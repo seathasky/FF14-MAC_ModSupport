@@ -147,7 +147,7 @@ open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0"
 
 (both files are in .drive_c/users/<my username>/My Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/
  
- 
+------------------------------------------------------------------------------------------------------------
 
 Alot of mod related issues can be fixed by first installing this script: https://github.com/marzent/ffxiv-on-mac
 
@@ -157,7 +157,7 @@ If you feel I've missed anything or run into issue installing, use the issue tra
 
 Good luck!
 
-*-Seathasky
+-Seathasky
 
 
 
