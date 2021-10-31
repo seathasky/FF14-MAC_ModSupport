@@ -41,8 +41,9 @@ These first 5 steps are for a basic setup without mod support. If you want full 
 
 
 ------------------------------------------------------------------------------------------------------------
-**STEP 3:** Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added:
+**STEP 3:** Performance tweaks & FPS display
 ------------------------------------------------------------------------------------------------------------
+Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" with a text editor and add these env variables, the section is at the very bottom of the config file. I highlighted in red in this image what needs to be added:
 
 ![step3](https://i.imgur.com/UtIE40Z.png )
 
