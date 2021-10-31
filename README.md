@@ -84,10 +84,12 @@ This concludes setup guide for minimal install of FF14 in CX21. Continue below f
 ------------------------------------------------------------------------------------------------------------
 **Continued Setup Guide for Mod Support:** 
 ------------------------------------------------------------------------------------------------------------
+
 Before you continue any of these next steps, you will need to run this script to patch your Crossover 21. If you do not do this,
 mods will not work! Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
-Xivlauncher may require a FF14 Windows game license due to how it authentication. You can read more that progress here:  
+Xivlauncher plugin support may require a FF14 Windows game license due to how it authentication. You can read more that progress here:  
 https://github.com/goatcorp/FFXIVQuickLauncher/pull/572
+
 ------------------------------------------------------------------------------------------------------------
 **STEP 6 - ACT Parser:** 
 ------------------------------------------------------------------------------------------------------------
@@ -184,7 +186,7 @@ Mac OS Monterey support is unknown at this time.
 
 If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
  
-Good luck!
+Good luck!!
 
 -Seathasky
 
