@@ -145,7 +145,7 @@ New override for library: dxgi - edit to (native, builtin)
 
 ![dxgi](https://i.imgur.com/hCykZj8.png!)
 
-These need to be set prior to running game after installing Gshade.
+After these have been overriden, restart crossover. These need to be set prior to running game and after installing Gshade.
 
 ------------------------------------------------------------------------------------------------------------
 **STEP 9 (optional)** - So you want to use your FF14 Windows License instead of the Mac one.
