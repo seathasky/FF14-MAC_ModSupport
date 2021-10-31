@@ -2,7 +2,7 @@
 **Alternative method of running FF14 on Mac + Mod Support.**
 
 This requires a legit copy of Crossover 21 or later to work! Cracked versions of CX will actually tank your performance.
-Support Codeweavers, it's worth it!
+Support Codeweavers, it's worth it! https://www.codeweavers.com/
 
 **WARNING:**
 Performance may vary, and M1 users have reported that they are doubling fps but using this method has no guarantee!
