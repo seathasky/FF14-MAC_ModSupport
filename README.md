@@ -77,7 +77,9 @@ ACT Networking will only work through WinPcap. Enable this after installing the 
 ![pcap](https://i.imgur.com/YDllprc.png) 
 
 After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) and enable Local Overlay here:
+
 ![lo](https://i.imgur.com/15zBdZj.png) 
+
 Do not add any overlay directly from ACT, you will be using Bunny-HUD in the next step for overlays.
 
  * An early build of Bunny Hud can be found here https://github.com/marzent/Bunny-HUD. 
