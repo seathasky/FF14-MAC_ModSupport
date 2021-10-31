@@ -143,9 +143,9 @@ If you are using default launcher use these fixes:
 
 Open FFXIV_BOOT.cfg and change these settings "Browser = 1" 
 
-open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0" 
+Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0" 
 
-(both files are in .drive_c/users/<my username>/My Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/
+Both files are in  your FF14 bottle @ drive_c/users/<my username>/My Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/
  
 ------------------------------------------------------------------------------------------------------------
 
