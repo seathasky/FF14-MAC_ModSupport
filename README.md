@@ -72,11 +72,12 @@ If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bo
 ------------------------------------------------------------------------------------------------------------
 Installing ACT and Getting Plugins to work:
 ------------------------------------------------------------------------------------------------------------
- * ACT requires a custom script to function with networking. Downloading and running the script provided here will patch your CX21 bottle and fix networking issues.
+ * ACT requires a custom script to function with networking. Downloading and running the script provided here: https://github.com/marzent/ffxiv-on-mac will patch your CX21 bottle and fix networking issues.
+ 
 ACT Networking will only work through WinPcap. Enable this after installing the script above.
 ![pcap](https://i.imgur.com/YDllprc.png) 
 
-After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) and enable Local Overlay here:
+After you install script, download your plugins (EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) and enable Local Overlay here by pressing start:
 
 ![lo](https://i.imgur.com/15zBdZj.png) 
 
