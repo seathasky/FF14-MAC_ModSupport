@@ -170,11 +170,13 @@ Both files are in  your FF14 bottle @ drive_c/users/<my username>/My Documents/M
 ------------------------------------------------------------------------------------------------------------
 
 Alot of mod related issues can be fixed by first installing this script: https://github.com/marzent/ffxiv-on-mac
-
-If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
+ 
+Dalamud plugin issues? Restart your game and crossover. Sometimes this happens. (No known fix)
 
 ------------------------------------------------------------------------------------------------------------
 
+If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
+ 
 Good luck!
 
 -Seathasky
