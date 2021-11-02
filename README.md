@@ -12,6 +12,8 @@ This guide is a 100% manual install guide. If you need assistance, post on the i
 ------------------------------------------------------------------------------------------------------------
 Mac Mod Update News:
 ------------------------------------------------------------------------------------------------------------
+<strong>November 2, 2021:</strong> 
+- `New Crossover crosstie install now default method. Step #'s have changed in process.`   
 
 <strong>November 1, 2021:</strong> 
 - `Dalamud plugins are now fixed on Mac and Linux.`   
@@ -23,49 +25,62 @@ Mac Mod Update News:
 
 ------------------------------------------------------------------------------------------------------------
 
-<h6>So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I wrapped a fresh FF14 install through Crossover 21 and am getting almost twice the FPS with my current setup. This has inspired other devs to get some mods working inside Mac. </h6><h5>Big shout to Marzent, he's been a major part of getting a lot of these mods working and also my co-collaborater on this project! You can check out his github here: https://github.com/marzent</h5>
-
-------------------------------------------------------------------------------------------------------------
 <div align="center"><h5>Video showcasing full mod support working on FF14 in MacOS:</h5>
 
 [![FF14MacCX](https://i.imgur.com/CUkvquT.png)](https://www.youtube.com/watch?v=rs_lHlIQHqw "Video showcasing mod support on Mac")</div>
 
 
 ------------------------------------------------------------------------------------------------------------
-**Minimal Setup Guide:** 
-
-<h6>These first 5 steps are for a basic setup without mod support. If you want full mod support, continue reading the guide past Step 5. If you don't move past step 5, you will only be able to use a FF14 Mac game license. If you only have a windows game license, or want full mod support, you must proceed past step 5.</h6>
-
-<h2>STEP 1:</h2>  
-<h3>Make a new Win 10 x64 bottle by installing x64 dependencies.</h3>
+Setup Guide:
+------------------------------------------------------------------------------------------------------------
+<h2>STEP 1:</h2>  <h3>Install</h3>
+<h6> Right click & "Save Link as": <a href="https://raw.githubusercontent.com/marzent/ffxiv-on-mac/main/Final%20Fantasy%20XIV%20Online.tie" download>Final Fantasy 14 Online.tie</a> and save to desktop or downloads folder.<br><br>
+  
+ Double click the .tie file you just downloaded and press load:
+<p align="center"> 
+<img src="https://i.imgur.com/GVpKFwP.png">
+</p><br><br>
+  
+ Press install:
+  <p align="center"> 
+<img src="https://i.imgur.com/qbv25X3.png">
+</p><br><br>
+  
+ Follow prompts for dependancies and install everything until it finishes, it will take a while to install everything:
+<p align="center"> 
+<img src="https://i.imgur.com/fs6mm1x.png">
+</p><br><br>
+  
+  Once you get to the end of the Crossover install follow the XIVLauncher install prompts and completely install FF14 through XIVlauncher (Only enable in-game features if you've used Marzents script prior to this, uncheck "Enable in-game features" if you have not installed his script: 
+ <p align="center"> 
+<img src="https://i.imgur.com/FufmuN7.png">
+</p><br><br>
+  
+ Enter your account information into XIVLauncher and allow XIVLauncher to install everything:
+ 
+<p align="center"> 
+<img src="https://i.imgur.com/WQjov2b.png">
+</p><br><br>
+  
+ Once game has completely installed, you can launch XIVLauncher from your new Crossover bottle to start your game or drag the XIVLauncher icon to your Mac OS dock
+  <p align="center"> 
+<img src="https://i.imgur.com/auSZR0N.png">
+</p><br><br>
+  
+  Continue to step 2 for performance tweaks.
+  
+  
+------------------------------------------------------------------------------------------------------------
+  
+Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> (Skip this if you used the crosstie install)</h6>
 
 ------------------------------------------------------------------------------------------------------------
 
-<p align="center"> 
-<img src="https://i.imgur.com/Q0yGa3G.png">
-<p align="center"> 
-<img src="https://i.imgur.com/Kr1cfdh.png">
-<p align="center"> 
-<img src="https://i.imgur.com/ljIA7V5.png">
-</p>
-
-
-<h2>STEP 2:</h2>  <h3>Install the rest of the dependencies after bottle is made</h3>
-
-------------------------------------------------------------------------------------------------------------
-<h6>
-"Direct-X for Modern Games" 
-
-"DXVK (builtin)"
-
-Optional: "Microsoft .NET Framework 4.8" is needed for XIVLauncher</h6>
-
-
-<h2>STEP 3:</h2>  <h3>Performance tweaks & FPS display</h3>
+<h2>STEP 2:</h2>  <h3>Performance tweaks & FPS display</h3>
 
 ------------------------------------------------------------------------------------------------------------
 
-<h6>Go to your bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" Here:
+<h6>Go to your new bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ and open "CXBOTTLE.CONF" Here:
   
  
   <p align="center"> 
@@ -90,34 +105,14 @@ Copy below:
  "HARMONY_DEBUG" = "1"
  ```
  
-<h2>STEP 4:</h2>  <h3>Configure your new bottle with these settings: </h3>
+<h2>STEP 3:</h2>  <h3>Configure your new bottle with these settings: </h3>
 
 ------------------------------------------------------------------------------------------------------------
 <p align="center"> 
 <img src="https://i.imgur.com/qZ8UiBK.png">
 </p>
 
-<h2>STEP 5:</h2>  <h3>Download and install the game fully inside your CX bottle, Link here: https://sqex.to/ffxiv_client_en  </h3>
-
-------------------------------------------------------------------------------------------------------------
-
-<h6>When installing ffxivsetup.exe, ensure that CX21 is set to the "Unlisted application" template:
-
-![step5](https://i.imgur.com/MTuACnt.png )
-
-The official "Final Fantasy XIV" template is broken and will break the bottle if you try to use it.
-
-**(OR)** copy the SE folder from a windows install into your bottle (this makes things faster)
-
-Alternatively you can skip to step 7. and install the game by launching XIVlauncher. **(Recommended but requires more steps)** 
-
-Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
-
-You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.
-
-If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
-
-This concludes setup guide for minimal install of FF14 in CX21. Continue below for mod support.</h6>
+This concludes the install guide for minimal setup. Continue to step 4 if you want to use mods.
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -125,11 +120,9 @@ This concludes setup guide for minimal install of FF14 in CX21. Continue below f
 
 <h3>IMPORTANT!</h3>
 
-<h5>Before you continue any of these next steps, you will need to run this script to patch your Crossover 21. If you do not do this,
+<h5>Before you continue any of these next steps, make sure you've patched your Crossover w/ Marzents script. If you do not do this,
 most mods will not work!
   <br><br>
-This script also is currently only supported for those with a FF14 Windows game license. 
-<br><br>
 Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
 <br><br>
 Xivlauncher plugin support may require a FF14 Windows game license due to how it authenticates. 
@@ -139,7 +132,7 @@ You can read more about Mac license progress here:
 https://github.com/goatcorp/FFXIVQuickLauncher/pull/572 </h5>
 
 ------------------------------------------------------------------------------------------------------------
-**STEP 6 - ACT Parser:** 
+**STEP 4 - ACT Parser:** 
 ------------------------------------------------------------------------------------------------------------
 
 <h6>Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php <br><br>
@@ -193,32 +186,22 @@ You will need this for full overlay support in ACT. Sort of like Hudkit on linux
  Default ACT overlays are not working, this APP is 100% required!</h6>
  
 ------------------------------------------------------------------------------------------------------------
-**STEP 7 - XIVLauncher, Plugins & Steam Account support**:
+**STEP 5 - XIVLauncher, Plugins & Steam Account support**:
 ------------------------------------------------------------------------------------------------------------
-<h6>Download & copy the portible XIVlauncher folder anywhere into your bottle prefix: 
-<br><br>
-https://drive.google.com/drive/folders/1IBq6ngsX2-U6rk5CimuRglgX4WQbW0A6?usp=sharing 
-<br><br>
- (OR)
-<br><br>
-Download Mac CX Installer here: https://github.com/marzent/ffxiv-on-mac/blob/main/XIVLauncherWine.exe and install into you FF14 bottle.
-  <br><br>
-If you copied XIVlauncher from the folder provided you will need to manually add/run XIVLauncher.exe via command inside your bottle.
-<br><br>
-If you went with the installer, it will populate your bottle automatically.
-<br><br>
-<p align="center"> 
-<img src="https://i.imgur.com/PXiWuph.png">
-</p>
-<br><br>
+<h6>
+Dalamud plugins inside XIVLauncher should work by default if you have patched your Crossover w/ the script.<br><br>
+When Square Enix patches FF14, we usually lose plugin support until Dalamud is updated again. This happens on all platiforms.<br><br>
+If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher <br><br>
+
+------------------------------------------------------------------------------------------------------------  
+  
 If you have a FF14 Steam account, you will need to enable this option in XIVLauncher before you login:</h6>
 <p align="center"> 
 <img src="https://i.imgur.com/ttUyk5K.png">
 </p>
 
-
 ------------------------------------------------------------------------------------------------------------
-**STEP 8:** - Gshade:
+**STEP 6:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
 <h6>Install the Linux script of Gshade into your FF14 bottle. (It works in Mac too) https://gposers.com/gshade/<br><br>
 Follow the gshade setup and use the prefix from your CX FF14 bottle.
@@ -245,7 +228,7 @@ New override for library: dxgi - edit to (native, builtin)
 After these have been overriden, restart crossover. These need to be set prior to running game and after installing Gshade.</h6>
   
 ------------------------------------------------------------------------------------------------------------
-STEP 9: Anamnesis (aka) CMTool Mod
+STEP 7: Anamnesis (aka) CMTool Mod
 ------------------------------------------------------------------------------------------------------------  
 <h6>The regular CMTool is not working in Crossover at this time but the CMTool devs are working on a newer version called
 Anamnesis. It's still in early beta and there are a ton of bugs, including crashing and UI bugs in Crossover. You are welcome to test it out anyways.<br><br>
@@ -263,7 +246,7 @@ Then download the latest version of Anamnesis here: https://github.com/imchillin
 I will not support this mod in the Issue tracker at all, so please dont ask. Use at your own risk :)</h6>
   
 ------------------------------------------------------------------------------------------------------------
-STEP 10: (optional) - So you want to use your FF14 Windows License instead of the Mac one.
+STEP 8: (optional) - So you want to use your FF14 Windows License instead of the Mac one.
 ------------------------------------------------------------------------------------------------------------
  
  <h6>If you want to use a FF14 windows license instead, run Marzents script https://github.com/marzent/ffxiv-on-mac/ 
@@ -315,6 +298,8 @@ Mods have been tested and working on latest Mac OS Catalina and Mac OS Big Sur.<
 Mac OS Monterey support is unknown at this time.</h6>
 
 ------------------------------------------------------------------------------------------------------------
+  
+<h6>So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I wrapped a fresh FF14 install through Crossover 21 and am getting almost twice the FPS with my current setup. This has inspired other devs to get some mods working inside Mac. </h6><h5>Big shout to Marzent, he's been a major part of getting a lot of these mods working and also my co-collaborater on this project! You can check out his github here: https://github.com/marzent</h5><br><br>  
 
 If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
  
