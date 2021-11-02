@@ -77,7 +77,7 @@ IMPORTANT: If you plan on using mods, you must Download and install the install 
   
   
 ------------------------------------------------------------------------------------------------------------
-(Not recccomended)<br><br>  
+(Not reccomended)<br><br>  
 Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the crosstie install)</h6>
 
 ------------------------------------------------------------------------------------------------------------
