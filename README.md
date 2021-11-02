@@ -31,7 +31,8 @@ Mac Mod Update News:
 ------------------------------------------------------------------------------------------------------------
 # Table of contents
 
-  - [Setup Guide - Steps 1 through 3](#setup-guide)
+  - [Setup Guide - Read me First | Steps 1 through 3](#setup-guide)
+  - [Setup Guide for Mods](#continued-setup-guide-for-mod-support)
   - [Mods - ACT Parser](#step-4---act-parser)
   - [Mods - XIVLauncher, Plugins & Steam Account support](#step-5---xivlauncher-plugins--steam-account-support)
   - [Mods - Gshade](#step-6---gshade)
