@@ -34,7 +34,7 @@ Performance may vary, and M1 users have reported that they are doubling fps, but
 This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h3>
 
 ------------------------------------------------------------------------------------------------------------
-Mac Mod Update News:
+Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>November 2, 2021:</strong> 
 - `New Crossover crosstie install now default method. Step #'s have changed in process.`   
