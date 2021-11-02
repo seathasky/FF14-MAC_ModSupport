@@ -1,5 +1,6 @@
-# FF14 on MAC w/ Full Mod Support via Crossover 21
-**Alternative method of running FF14 on Mac + Mod Support.** 
+<div align="center"><h2>FF14 on MAC w/ Full Mod Support via Crossover 21:</h2></div>
+<div align="center">Alternative method of running FF14 on Mac + Mod Support.</div>
+
 ------------------------------------------------------------------------------------------------------------
 
 <div align="center"><h5>Video showcasing full mod support working on FF14 in MacOS:</h5>
