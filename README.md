@@ -34,7 +34,12 @@ Mac Mod Update News:
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install</h3>
+
+IMPORTANT: If you plan on using mods, you must Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac prior to following anything on this guide. This includes using Dalamud plugins in XIVLauncher. If you just want play without mods, skip this and continue the steps below.<br><br>
+
 <h6> Right click & "Save Link as": <a href="https://raw.githubusercontent.com/marzent/ffxiv-on-mac/main/Final%20Fantasy%20XIV%20Online.tie" download>Final Fantasy 14 Online.tie</a> and save to desktop or downloads folder.<br><br>
+  
+
   
  Double click the .tie file you just downloaded and press load:
 <p align="center"> 
