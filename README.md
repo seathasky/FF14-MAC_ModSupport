@@ -271,7 +271,7 @@ STEP 8: (optional) - So you want to use your FF14 Windows License instead of the
 Troubleshooting:
 ------------------------------------------------------------------------------------------------------------
 
-<h6>Without XIV launcher installed the native launcher has some issues, you have to press enter to play after typing pw or the launcher freaks out, xivlauncher fixes this. but requires more dependencies and work. If you got this far i'm sure you can figure out xivlauncher, it's the easy part, just grab the latest .NET dependencies and it should work after copying the folder from the link I provided above.<br><br><br>
+<h6>So you decided to manually install the game through the old guide with the default launcher? Well, you might run into issues. The native launcher has some issues inside Crossover. You will have to press enter to play after typing your PASSWORD or the launcher freaks out. We reccomend following the main guide as XIVLauncher fixes this.<br><br><br>
 
 If you are using default launcher use these fixes:
 <br><br>
@@ -297,7 +297,7 @@ Both files are in  your FF14 bottle @ drive_c/users/<my username>/My Documents/M
  
 Dalamud plugins not loading on launch? Restart your game and crossover. Sometimes this happens. (No known fix)<br><br>
   
-Setting up XIVlauncher/FF14 through Crossover 21 will only work on your unless you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  
+External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  
  
 Mods have been tested and working on latest Mac OS Catalina and Mac OS Big Sur.<br><br>
  
