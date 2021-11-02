@@ -73,7 +73,7 @@ The official "Final Fantasy XIV" template is broken and will break the bottle if
 
 **(OR)** copy the SE folder from a windows install into your bottle (this makes things faster)<br><br>
 
-Alternatively, you can install the game by launching XIVlauncher. **(Recommended)** <br><br>
+Alternatively, you can install the game by launching XIVlauncher and using the main install guide **(Recommended)** <br><br>
   
 
   
@@ -86,6 +86,6 @@ Running the game:
 
 You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.<br><br>
 
-If you installed XIVLauncher, you can run XIVLauncher.exe in your bottle and skip most of the installation steps. <br><br>
+If you want to use XIVLauncher instead, follow the main guide. <br><br>
 
-This concludes the manual setup guide for minimal install of FF14 in CX21. Refer to the main page for mod support.</h6>
+This concludes the manual setup guide for minimal install of default FF14 launcher in CX21.</h6>
