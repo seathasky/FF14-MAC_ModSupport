@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://i.imgur.com/dMWinQX.png">
+<img src="https://i.imgur.com/2IgiL4D.png">
 </p>
 
 <div align="center"><h2>FF14 on MAC w/ Full Mod Support via Crossover 21:</h2></div>
