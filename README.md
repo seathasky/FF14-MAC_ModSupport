@@ -29,9 +29,9 @@ Intro:
 <h6>This requires a legit copy of Crossover 21 or later to work! Cracked versions of CX will actually tank your performance.
 Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 
-<h3>WARNING:
+<h4>WARNING:
 Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
-This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h3>
+This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h4>
 
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
