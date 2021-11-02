@@ -75,7 +75,7 @@ IMPORTANT: If you plan on using mods, you must Download and install the install 
 <img src="https://i.imgur.com/fs6mm1x.png">
 </p><br><br>
   
-  Once you get to the end of the Crossover install follow the XIVLauncher install prompts and completely install FF14 through XIVlauncher <br>(Only enable in-game features if you've used Marzents script prior to this, uncheck "Enable in-game features" if you have not installed his script: 
+  Once you get to the end of the Crossover install follow the XIVLauncher install prompts and completely install FF14 through XIVlauncher (Only enable in-game features if you've used Marzents script prior to this, uncheck "Enable in-game features" if you have not installed his script: 
  <p align="center"> 
 <img src="https://i.imgur.com/FufmuN7.png">
 </p><br>
@@ -85,7 +85,7 @@ IMPORTANT: If you plan on using mods, you must Download and install the install 
 <p align="center"> 
 <img src="https://i.imgur.com/WQjov2b.png">
 </p><br>
-  Once game has completely installed, you can launch XIVLauncher from your new Crossover bottle<br> to 
+  Once game has completely installed, you can launch XIVLauncher from your new Crossover bottle to 
  start your game or drag the XIVLauncher icon to your Mac OS dock<br><br>
   <br>
   <p align="center"> 
