@@ -71,8 +71,8 @@ Setup Guide:
   
   
 ------------------------------------------------------------------------------------------------------------
-  
-Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> (Skip this if you used the crosstie install)</h6>
+(Not recccomended)<br><br>  
+Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the crosstie install)</h6>
 
 ------------------------------------------------------------------------------------------------------------
 
