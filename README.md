@@ -28,7 +28,16 @@ Mac Mod Update News:
 <div align="center"><h5>Video showcasing full mod support working on FF14 in MacOS:</h5>
 
 [![FF14MacCX](https://i.imgur.com/CUkvquT.png)](https://www.youtube.com/watch?v=rs_lHlIQHqw "Video showcasing mod support on Mac")</div>
+------------------------------------------------------------------------------------------------------------
+# Table of contents
 
+  - [Setup Guide | Steps 1 through 3](#setup-guide)
+  - [Mods - ACT Parser](#step-4---act-parser)
+  - [Mods - XIVLauncher, Plugins & Steam Account support](#step-5---xivlauncher-plugins--steam-account-support)
+  - [Mods - Gshade](#step-6---gshade)
+  - [Mods - Anamnesis (aka) CMTool Mod](#step-7-anamnesis-aka-cmtool-mod)
+  - [Using your Windows License Instead - So you want to use your FF14 Windows License instead](#step-8-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one)
+  - [Troubleshooting](#troubleshooting)
 
 ------------------------------------------------------------------------------------------------------------
 Setup Guide:
