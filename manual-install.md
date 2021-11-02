@@ -1,4 +1,4 @@
-This guide is for those who want to setup FF14 manually through Crossover 21 withou the Crosstie.
+This guide is for those who want to setup FF14 manually through Crossover 21 without the Crosstie.
 
 <h2>STEP 1:</h2>  
 <h3>Make a new Win 10 x64 bottle by installing x64 dependencies.</h3>
@@ -80,10 +80,12 @@ Alternatively, you can install the game by launching XIVlauncher. **(Recommended
 Running the game:
 ------------------------------------------------------------------------------------------------------------
 
-Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) OR
+<h6>Run the game from the c: drive manually (Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/drive_c/Program86/SquareEnix/FF14/Boot/ffxivboot64.exe) <br> <br>
+  
+  OR
 
-You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.
+You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.<br><br>
 
-If you installed XIVLauncher from step 7, you can run XIVLauncher.exe in your bottle and skip most of the installation steps.
+If you installed XIVLauncher, you can run XIVLauncher.exe in your bottle and skip most of the installation steps. <br><br>
 
-This concludes setup guide for minimal install of FF14 in CX21. Continue below for mod support.</h6>
+This concludes the manual setup guide for minimal install of FF14 in CX21. Refer to the main page for mod support.</h6>
