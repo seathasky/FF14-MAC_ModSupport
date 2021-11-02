@@ -7,7 +7,7 @@ Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 
 <h3>WARNING:
 Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
-This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Some steps may require a FF14 Windows game license to work fully.</h3>
+This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h3>
 
 ------------------------------------------------------------------------------------------------------------
 Mac Mod Update News:
@@ -131,7 +131,7 @@ most mods will not work!
   <br><br>
 Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
 <br><br>
-Xivlauncher plugin support may require a FF14 Windows game license due to how it authenticates. 
+Xivlauncher may break with a FF14 Mac only game license after it updates, though this is already fixed and only needs to be merged back. 
 <br><br>
 You can read more about Mac license progress here: 
 
@@ -257,7 +257,7 @@ STEP 8: (optional) - So you want to use your FF14 Windows License instead of the
  
  <h6>If you want to use a FF14 windows license instead, run Marzents script https://github.com/marzent/ffxiv-on-mac/ 
    
-   it will patch your crossover and also add these changes to regedit:
+   it will patch your crossover and you will have to add the following key into your registry via `regedit`:
    <br>
    <br>
    
@@ -265,7 +265,7 @@ STEP 8: (optional) - So you want to use your FF14 Windows License instead of the
 <img src="https://i.imgur.com/LreO7Lv.png">
 </p>
    
- Vice versa, use HideWineExports = 0 to revert to a Mac license (but dont expect mod support on Mac license with this)  </h6>
+ Vice versa, use HideWineExports = 0 to revert to a Mac license  </h6>
 
 ------------------------------------------------------------------------------------------------------------
 Troubleshooting:
