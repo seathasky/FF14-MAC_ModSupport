@@ -9,7 +9,9 @@
 ------------------------------------------------------------------------------------------------------------
 
 # Table of contents
-
+  
+  - [Intro](#intro)
+  - [News & Updates](#mac-mod-update-news)
   - [Setup Guide - Read me First | Steps 1 through 3](#setup-guide)
   - [Setup Guide for Mods](#continued-setup-guide-for-mod-support)
   - [Mods - ACT Parser](#step-4---act-parser)
