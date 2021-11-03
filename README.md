@@ -340,7 +340,10 @@ If you feel I've missed anything or run into issue installing, use the issue tra
  
 Good luck!!
 
-  <h4>-Seathasky</h4>
-
+<h4>-Seathasky</h4>
+  
+------------------------------------------------------------------------------------------------------------  
+  
+[Return to Table of Contents](#table-of-contents)
 
 
