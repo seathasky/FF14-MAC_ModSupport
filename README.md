@@ -333,14 +333,11 @@ Mac OS Monterey support is unknown at this time.</h6>
 
 ------------------------------------------------------------------------------------------------------------
   
-<h6>So a little background. I'm on an Intel i7 10700k w/ 5700 XT Hackintosh on latest version of Big Sur and was pretty underwhelmed with the performance the native FF14 mac client was giving. So, I wrapped a fresh FF14 install through Crossover 21 and am getting almost twice the FPS with my current setup. This has inspired other devs to get some mods working inside Mac. </h6><h5>Big shout to Marzent, he's been a major part of getting a lot of these mods working and also my co-collaborater on this project! You can check out his github here: https://github.com/marzent</h5>
-
-------------------------------------------------------------------------------------------------------------  
-If you feel I've missed anything or run into issue installing, use the issue tracker here, and i'll try and assist. 
+If you feel we've missed anything or run into issue installing, use the issue tracker here, and we'll try and assist you the best we can. 
  
 Good luck!!
 
-<h4>-Seathasky</h4>
+<h4>-Seathasky & Marzent</h4>
   
 ------------------------------------------------------------------------------------------------------------  
   
