@@ -315,7 +315,7 @@ Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0". This fixes 
 </p>
    
 
-Both files are in  your FF14 bottle @ drive_c/users/<my username>/My Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/ </h6>
+Both files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/` </h6>
  
 ------------------------------------------------------------------------------------------------------------
 
