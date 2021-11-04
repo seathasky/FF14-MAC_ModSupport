@@ -307,6 +307,13 @@ Open FFXIV_BOOT.cfg and change these settings "Browser = 1"  this fixes the froz
  <p align="center"> 
 <img src="https://i.imgur.com/VszPBaN.png">
 </p>
+ <br>
+If you are using a windows license within crossover, make sure to turn OFF HBAO. Leaving this on will cause wierd black textures.
+  <br><br>
+  
+   <p align="center"> 
+<img src="https://i.imgur.com/vGz4jvb.png">
+</p>
  
 ------------------------------------------------------------------------------------------------------------
 Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.
