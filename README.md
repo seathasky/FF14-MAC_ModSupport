@@ -1,18 +1,15 @@
 <p align="center"> 
 <img src="https://i.imgur.com/2IgiL4D.png">
 </p>
-<p align="center"> 
-<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/seathasky/FF14-MAC_ModSupport" alt="Open Issues"></a> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues?q=is%3Aissue+is%3Aclosed" title="Closed Issues"><img src="https://img.shields.io/github/issues-closed-raw/seathasky/FF14-MAC_ModSupport?style=flat" alt="Closed Issues"></a>
-</p>
 
 <div align="center"><h2>FF14 on MAC w/ Full Mod Support via Crossover 21:</h2></div>
 <div align="center">Alternative method of running FF14 on Mac + Mod Support.</div>
+<br>
 
-------------------------------------------------------------------------------------------------------------
-
-<div align="center"><h5>Video showcasing full mod support working on FF14 in MacOS:</h5>
-
-[![FF14MacCX](https://i.imgur.com/CUkvquT.png)](https://www.youtube.com/watch?v=rs_lHlIQHqw "Video showcasing mod support on Mac")</div>
+<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/new/choose" title="new issue"><img src="https://img.shields.io/badge/Need%20Help%3F-Click%20Here-red?style=for-the-badge" alt="New Issues"></a>
+<div align="center"> <h6>Or check our issue trackers first:</h6></div>
+<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/seathasky/FF14-MAC_ModSupport" alt="Open Issues"></a>  <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues?q=is%3Aissue+is%3Aclosed" title="Closed Issues"><img src="https://img.shields.io/github/issues-closed-raw/seathasky/FF14-MAC_ModSupport?style=flat" alt="Closed Issues"></a> 
+</p>
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -39,6 +36,10 @@ Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 <h4>WARNING:
 Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
 This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h4>
+
+<div align="center"><h6>Video showcase:</h6>
+
+[![FF14MacCX](https://media3.giphy.com/media/jkvOjP18NQuER1J3d7/giphy.gif?cid=790b7611c4e32d08b041ec85857206ff1cc2d41844a0e1f5&rid=giphy.gif&ct=g)](https://www.youtube.com/watch?v=rs_lHlIQHqw "Video showcasing mod support on Mac")</div>
 
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
