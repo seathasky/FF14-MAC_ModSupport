@@ -263,7 +263,7 @@ New override for library: dxgi - edit to (native, builtin)
 <img src="https://i.imgur.com/hCykZj8.png">
 </p>
 
-After these have been overriden, restart crossover. These need to be set prior to running game and after installing Gshade.</h6></div>
+After these have been overridden, restart crossover. These need to be set prior to running game and after installing Gshade.</h6></div>
   
 ------------------------------------------------------------------------------------------------------------
 STEP 7: Anamnesis (aka) CMTool Mod
