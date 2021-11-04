@@ -314,7 +314,7 @@ Open FFXIV_BOOT.cfg and change these settings "Browser = 1"  this fixes the froz
 
 ------------------------------------------------------------------------------------------------------------
   
-Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 0". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.
+Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.
    <p align="center"> 
 <img src="https://i.imgur.com/knT31A2.png">
 </p>
