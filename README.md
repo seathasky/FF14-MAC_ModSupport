@@ -320,7 +320,7 @@ Both files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Re
 
 ------------------------------------------------------------------------------------------------------------  
   
-If you are using a windows license within crossover, make sure to turn OFF HBAO. Leaving this on will cause wierd black textures.
+<h6>If you are using a windows license within crossover, make sure to turn OFF HBAO. Leaving this on will cause wierd black textures.</h6>
   <br>
   
    <p align="center"> 
