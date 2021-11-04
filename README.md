@@ -1,7 +1,7 @@
-<p align="center"> 
+<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
 <img src="https://i.imgur.com/2IgiL4D.png">
 </p>
-<p align="center"> 
+<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
 <img src="https://i.imgur.com/WI8Kpgj.png">
 </p>
 
