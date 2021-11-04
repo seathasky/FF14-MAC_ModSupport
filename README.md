@@ -1,6 +1,9 @@
 <p align="center"> 
 <img src="https://i.imgur.com/2IgiL4D.png">
 </p>
+<p align="center"> 
+<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/seathasky/FF14-MAC_ModSupport" alt="Open Issues"></a> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues?q=is%3Aissue+is%3Aclosed" title="Closed Issues"><img src="https://img.shields.io/github/issues-closed-raw/seathasky/FF14-MAC_ModSupport?style=flat" alt="Closed Issues"></a>
+</p>
 
 <div align="center"><h2>FF14 on MAC w/ Full Mod Support via Crossover 21:</h2></div>
 <div align="center">Alternative method of running FF14 on Mac + Mod Support.</div>
