@@ -341,11 +341,9 @@ Both files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Re
 <br>
  
 Dalamud plugins not loading on launch? Restart your game and crossover. Sometimes this happens. (No known fix)<br><br>
-  
+During injection of Dalamud plugins, your game may freeze. This is normal on Mac/Linux clients.<br><br>
 External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  
- 
 Mods have been tested and working on latest Mac OS Catalina and Mac OS Big Sur.<br><br>
- 
 Mac OS Monterey support is unknown at this time.</h6>
 
 ------------------------------------------------------------------------------------------------------------
