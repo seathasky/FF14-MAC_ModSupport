@@ -239,8 +239,8 @@ If you have a FF14 Steam account, you will need to enable this option in XIVLaun
 ------------------------------------------------------------------------------------------------------------
 **STEP 6:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
+<div align="center">IMPORTANT: A minority of gshade shaders will tank your performance. Avoid using the 2 clarity presets.</div>
 <div align="center"><h6>Install the Linux script of Gshade into your FF14 bottle. (It works in Mac too) https://gposers.com/gshade/<br><br>
-Warning: A minority of gshade shaders will tank your performance. Avoid using the 2 clarity presets.<br><br>
 Follow the gshade setup and use the prefix from your CX FF14 bottle.
 <p align="center"> 
 <img src="https://i.imgur.com/QCXIT69.png">
