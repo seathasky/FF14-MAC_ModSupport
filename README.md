@@ -69,9 +69,8 @@ If you just want to play without mods or only a Mac license, skip this and follo
  Double click the .tie file you just downloaded and press load:
 <p align="center"> 
 <img src="https://i.imgur.com/GVpKFwP.png">
-</p><br><br>
-  
- Press install:
+</p>
+  Press install:
   <p align="center"> 
 <img src="https://i.imgur.com/qbv25X3.png">
 </p><br><br>
@@ -84,10 +83,9 @@ If you just want to play without mods or only a Mac license, skip this and follo
   Once you get to the end of the Crossover install follow the XIVLauncher install prompts and completely install FF14 through XIVlauncher (Only enable in-game features if you've used Marzents script prior to this, uncheck "Enable in-game features" if you have not installed his script: 
  <p align="center"> 
 <img src="https://i.imgur.com/FufmuN7.png">
-</p><br>
-  
+</p>
  Enter your account information into XIVLauncher and allow XIVLauncher to install everything:
- 
+ <br><br>
 <p align="center"> 
 <img src="https://i.imgur.com/WQjov2b.png">
 </p><br>
