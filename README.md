@@ -1,10 +1,9 @@
 <p align="center"> 
 <img src="https://i.imgur.com/2IgiL4D.png">
 </p>
-
-<div align="center"><h2>FF14 on MAC w/ Full Mod Support via Crossover 21:</h2></div>
-<div align="center">Alternative method of running FF14 on Mac + Mod Support.</div>
-<br>
+<p align="center"> 
+<img src="https://i.imgur.com/WI8Kpgj.png">
+</p>
 
 <p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/new/choose" title="new issue"><img src="https://img.shields.io/badge/Need%20Help%3F-Click%20Here-red?style=for-the-badge" alt="New Issues"></a>
 <div align="center"> <h6>Or check our issue trackers first:</h6></div>
