@@ -34,7 +34,7 @@ Intro:
 Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 
 <h6>Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
-This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h6></div>
+This guide is a 100% manual install guide. If you need assistance, post on the issue tracker.<br>Both Mac and Windows licenses will work but a Windows license is preferable.</h6></div>
 
 ---
 
