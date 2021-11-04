@@ -28,11 +28,11 @@
 ------------------------------------------------------------------------------------------------------------
 Intro:
 ------------------------------------------------------------------------------------------------------------
-
-<div align="center"><h6>This requires a legit copy of Crossover 21 Stable (Nightly builds are currently unsupported).<br> Cracked versions of Crossover will actually tank your performance.<br>
+<div align="center">
+   <h2>WARNING:</h2>
+<h6>This requires a legit copy of Crossover 21 Stable (Nightly builds are currently unsupported).<br> Cracked versions of Crossover will actually tank your performance.<br>
 Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 
-  <h2>WARNING:</h2>
 <h6>Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
 This guide is a 100% manual install guide. If you need assistance, post on the issue tracker. Both Mac and Windows licenses will work but a Windows license is preferable.</h6></div>
 
