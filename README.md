@@ -146,7 +146,7 @@ Copy below:</div>
 
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h2>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
- <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-8-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 8</a>, otherwise continue guide for mod support.</h2></div>
+ <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-8-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 8</a>,<br> otherwise continue guide for mod support.</h2></div>
 <br>
 
 ------------------------------------------------------------------------------------------------------------
