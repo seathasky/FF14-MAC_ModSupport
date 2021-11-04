@@ -56,7 +56,7 @@ Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install</h3>
 
-IMPORTANT: If you plan on using mods, you must Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac prior to following anything on this guide. This includes using Dalamud plugins in XIVLauncher. If you just want to play without mods, skip this and continue the steps below.<br><br>
+IMPORTANT: If you plan on using mods or a FF14 windows license, you must Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac prior to following anything on this guide. This includes using Dalamud plugins in XIVLauncher. If you just want to play without mods, skip this and continue the steps below.<br><br>
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ Copy below:</div>
 </p>
 
 ------------------------------------------------------------------------------------------------------------
-<div align="center"><h2>This concludes the install guide for minimal setup. <br>Continue guide if you want to use mods.</h2></div>
+<div align="center"><h2>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to Step 8, otherwise continue guide for mod support.</h2></div>
 <br>
 
 ------------------------------------------------------------------------------------------------------------
