@@ -135,7 +135,7 @@ Copy below:</div>
  "DXVK_HUD" = "fps"
  "DXVK_FRAME_RATE" = "0"
  "GL_SHADER_DISK_CACHE_SKIP_CLEANUP" = "1"
- "MESA_GLTHREAD" = "1"
+ "MVK_CONFIG_FAST_MATH_ENABLED" = "1"
  "HARMONY_DEBUG" = "1"
  ```
  
