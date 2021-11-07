@@ -30,11 +30,14 @@ Intro:
 ------------------------------------------------------------------------------------------------------------
 <div align="center">
    <h2>WARNING:</h2>
-<h6>This requires a legit copy of Crossover 21 Stable (Nightly builds are currently unsupported).<br> Cracked versions of Crossover will actually tank your performance.<br>
+<h6>This requires a legit copy of Crossover 21 Stable (Nightly builds are supported but use at your own risk). <br> Cracked versions of Crossover will actually tank your performance.<br>
 Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 
 <h6>Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
-This guide is a 100% manual install guide. If you need assistance, post on the issue tracker.<br>Both Mac and Windows licenses will work but a Windows license is preferable.</h6></div>
+This guide is a 100% manual install guide. If you need assistance, post on the issue tracker.<br>Both Mac and Windows licenses will work but a Windows license is preferable.</h6>
+
+Mods have been tested and working on latest macOS Catalina, macOS Big Sur and macOS Monterey.<br>
+Older versions of Mac are NOT supported! </div>
 
 ---
 
@@ -355,9 +358,7 @@ Both files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Re
  
 Dalamud plugins not loading on launch? Restart your game and crossover. Sometimes this happens. (No known fix)<br><br>
 During injection of Dalamud plugins, your game may freeze. This is normal on Mac/Linux clients.<br><br>
-External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  
-Mods have been tested and working on latest Mac OS Catalina and Mac OS Big Sur.<br><br>
-Mac OS Monterey support is unknown at this time.</h6>
+External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  </h6>
 
 ------------------------------------------------------------------------------------------------------------
   
