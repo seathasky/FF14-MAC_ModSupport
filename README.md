@@ -37,7 +37,7 @@ Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 This guide is a 100% manual install guide. If you need assistance, post on the issue tracker.<br>Both Mac and Windows licenses will work but a Windows license is preferable.</h6>
 
 Mods have been tested and working on latest macOS Catalina, macOS Big Sur and macOS Monterey.<br>
-Older versions of Mac are NOT supported! </div>
+Older versions of macOS are NOT supported! </div>
 
 ---
 
