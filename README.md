@@ -70,7 +70,7 @@ Setup Guide:
   
 
   
- Double click the `install.command` file inside the folder you just downloaded and follow the instructions inside the Terminal window:
+ Double click the `install.command` file inside the folder you just downloaded<br> and follow the instructions inside the Terminal window:
   <p align="center"> 
 <img src="https://imgur.com/fuGBZn0.png">
 </p>
