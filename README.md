@@ -194,7 +194,7 @@ To test if networking is working with WinPcap, go fully into game (not login scr
 </p><br>
 
 
-After you install script and have tested your network in ACT, download your plugins <br>(EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) <br>
+After you have tested your network in ACT, download your plugins <br>(EXAMPLE: FFXIV_ACT_PLUGIN.DLL, OVERLAYPLUGIN.DLL, CACTBOTOVERLAY.DLL) <br>
 
 <p align="center"> 
 <img src="https://i.imgur.com/SARQChz.png">
