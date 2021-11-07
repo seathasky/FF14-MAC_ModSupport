@@ -89,7 +89,7 @@ Setup Guide:
 <img src="https://i.imgur.com/fs6mm1x.png">
 </p><br><br>
   
-  Once you get to the end of the Crossover install follow the XIVLauncher install prompts and completely install FF14 through XIVlauncher (Only enable in-game features if you've used Marzents script prior to this, uncheck "Enable in-game features" if you have not installed his script: 
+  Once you get to the end of the Crossover install follow the XIVLauncher install prompts and completely install FF14 through XIVlauncher (Only enable in-game features if you've patched for it) uncheck "Enable in-game features" if you have not patched for XIVLauncher injection.
  <p align="center"> 
 <img src="https://i.imgur.com/FufmuN7.png">
 </p>
@@ -110,7 +110,7 @@ Setup Guide:
   
 ------------------------------------------------------------------------------------------------------------
 **(NOT RECOMMENDED)**<br>
-Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the `install.command`)</h6>
+Alternatively, you can manually install with our depreciated guide by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the `install.command`)</h6>
 
 ------------------------------------------------------------------------------------------------------------
 
