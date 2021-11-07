@@ -46,7 +46,7 @@ This guide is a 100% manual install guide. If you need assistance, post on the i
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>November 7, 2021:</strong>
-- <img src="https://i.imgur.com/MkD6117.gif"> `New MoltenVK update method now included in setup guide.`
+- <img src="https://i.imgur.com/MkD6117.gif"> `New MoltenVK update method now included in setup guide for even more performance.`
 
 <strong>November 2, 2021:</strong> 
 - `New Crossover crosstie install now default method. Step #'s have changed in process.`   
