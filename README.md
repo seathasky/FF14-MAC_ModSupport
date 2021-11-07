@@ -45,13 +45,15 @@ This guide is a 100% manual install guide. If you need assistance, post on the i
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+<strong>November 7, 2021:</strong> 
+- `New MoltenVK update method now included in setup guide.`  
+
 <strong>November 2, 2021:</strong> 
 - `New Crossover crosstie install now default method. Step #'s have changed in process.`   
 
 <strong>November 1, 2021:</strong> 
 - `Dalamud plugins are now fixed on Mac and Linux.`   
 - <strike>`Temporary issues with Dalamud plugins in XIVLauncher. https://github.com/seathasky/FF14-MAC_ModSupport/issues/5`</strike>
-<br>
 
 <strong>October 30, 2021:</strong>
 - `FF14 on MAC w/ Full Mod Support Guide via Crossover 21 complete.`
@@ -60,9 +62,19 @@ Updates & News:
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 
-IMPORTANT: If you plan on using mods or a FF14 windows license, you must first download and install the install script from here: https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip prior to following anything on this guide. This includes using Dalamud plugins in XIVLauncher.<br> 
+<b>IMPORTANT:</b><br>
 
-If you just want to play without mods or only a Mac license, skip this and follow steps 1-3 only.<br>
+Patching Crossover:<br><br>
+If you plan on using mods or a FF14 windows license, you must first download and install the install script from here: https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip prior to following anything on this guide. This includes using Dalamud plugins in XIVLauncher.<br> 
+
+After you have finished installing the patching script, next we will patch MoltenVK manually.<br>
+Inside the .zip file you will find a folder titled "MoltenVK". Crossover 21 comes with an outdated version of MoltenVK. Marzent has compiled the latest version.
+We're seeing upwards to 25% more performance & stability vs the one shipped with CX21. It's now become the preferred method on newer hardware.<br><br>
+To manually update Crossover's MoltenVK, use the latest `libMoltenVK.dylib` from  the zip to overwrite the old one inside the Crossover.app here:<br>
+<img src="https://i.imgur.com/K3w3nBb.png"><br>
+
+<b>(NOT RECOMMENDED)</b><br>
+If you dont want to patch and prefer to play without mods or only a Mac license, skip this section and follow steps 1-3 only.<br>
 
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install</h3>
@@ -105,7 +117,7 @@ If you just want to play without mods or only a Mac license, skip this and follo
   
   
 ------------------------------------------------------------------------------------------------------------
-**(Not reccomended)**<br>
+**(NOT RECOMMENDED)**<br>
 Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the crosstie install)</h6>
 
 ------------------------------------------------------------------------------------------------------------
