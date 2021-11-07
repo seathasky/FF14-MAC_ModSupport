@@ -49,7 +49,7 @@ Older versions of macOS are NOT supported! </div>
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>November 7, 2021:</strong>
-- <img src="https://i.imgur.com/MkD6117.gif"> `New MoltenVK update method now included in setup guide for even more performance.`
+- <img src="https://i.imgur.com/MkD6117.gif"> `New easy install.command method. MoltenVK update method now included in patcher for even more performance.`
 
 <strong>November 2, 2021:</strong> 
 - `New Crossover crosstie install now default method. Step #'s have changed in process.`   
@@ -110,7 +110,7 @@ Setup Guide:
   
 ------------------------------------------------------------------------------------------------------------
 **(NOT RECOMMENDED)**<br>
-Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the crosstie install)</h6>
+Alternatively, you can manually install everything by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher (Skip this if you used the `install.command`)</h6>
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -160,11 +160,10 @@ Copy below:</div>
 
 <h3>IMPORTANT!</h3>
 
-<h5>Before you continue any of these next steps, make sure you've patched your Crossover w/ Marzents script. If you do not do this,
-most mods will not work!
+<h5>Before you continue any of these next steps, make sure you've patched your Crossover. If you skipped steps in the "ffxiv-on-mac" patcher,
+most mods will not work! Re-run the patcher and respond "y" to everything. (You can skip the crosstie again obviously)
   <br><br>
-Download and install the install script from here: https://github.com/marzent/ffxiv-on-mac
-<br><br>
+
 Xivlauncher may break with a FF14 Mac only game license after it updates, though this is already fixed and only needs to be merged back. 
 <br><br>
 You can read more about Mac license progress here: 
@@ -177,13 +176,9 @@ https://github.com/goatcorp/FFXIVQuickLauncher/pull/572 </h5>
 
 <div align="center"><h6>Download & Install ACT Parser into your bottle. https://advancedcombattracker.com/download.php <br><br>
 
-ACT requires the custom script "ffxiv-on-mac" and wireshark installed to function with networking. <br>Downloading and running the script, will patch your CX21 bottle and fix networking issues.<br><br>
-
-After installing the "ffxiv-on-mac" script, Install https://github.com/marzent/ffxiv-on-mac/tree/main/ChmodBPF package. <br>
+ACT requires wireshark installed to function with networking. <br> Make sure you said "y" to installing Chmodbpf when you patched.
   
 Alternatively you can download this from the Wireshark Mac Homebrew page https://formulae.brew.sh/cask/wireshark-chmodbpf<br><br>
-  
-If one BPF install is not working for you and ACT isnt getting winpcap networking, try the other.
   
 ------------------------------------------------------------------------------------------------------------ 
 ACT Networking will only work through WinPcap. Enable this in ACT settings after installing the script and BPF install above.<br><br>
@@ -229,7 +224,7 @@ You will need this for full overlay support in ACT. Sort of like Hudkit on linux
 **STEP 5 - XIVLauncher, Plugins & Steam Account support**:
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h6>
-Dalamud plugins inside XIVLauncher should work by default if you have patched your Crossover w/ the script.<br><br>
+Dalamud plugins inside XIVLauncher should work by default if you have patched your Crossover.<br><br>
 When Square Enix patches FF14, we usually lose plugin support until Dalamud is updated again. This happens on all platiforms.<br><br>
 If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher <br><br>
 
@@ -294,9 +289,9 @@ I will not support this mod in the Issue tracker at all, so please dont ask. Use
 STEP 8: (optional) - So you want to use your FF14 Windows License instead of the Mac one.
 ------------------------------------------------------------------------------------------------------------
  
- <div align="center"><h6>If you want to use a FF14 windows license instead, run Marzents script https://github.com/marzent/ffxiv-on-mac/ 
+ <div align="center"><h6>If you want to use a FF14 windows license instead, make sure you patched for it.
    
-   it will patch your crossover and you will have to add the following key into your registry via `regedit`:
+   To make windows license active, add the following key into your registry via `regedit`:
    <br>
    <br>
    
@@ -341,10 +336,7 @@ Both files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Re
  
 ------------------------------------------------------------------------------------------------------------
 
-<h6>Alot of mod related issues can be fixed by first installing this script: https://github.com/marzent/ffxiv-on-mac
-<br>
-<br>
- 
+<h6>A lot of mod related issues can be fixed by first saying "y" to all the steps while patching with <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">ffxiv-on-mac</a> <br><br> 
 Dalamud plugins not loading on launch? Restart your game and crossover. Sometimes this happens. (No known fix)<br><br>
 During injection of Dalamud plugins, your game may freeze. This is normal on Mac/Linux clients.<br><br>
 External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  </h6>
