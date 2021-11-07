@@ -64,29 +64,18 @@ Updates & News:
 ------------------------------------------------------------------------------------------------------------
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
-
-<b>IMPORTANT:</b><br>
-
-Patching Crossover:<br><br>
-If you plan on using mods or a FF14 windows license, you must first download and install the install script from here: https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip prior to following anything on this guide. This includes using Dalamud plugins in XIVLauncher.<br> 
-
-After you have finished installing the patching script, next we will patch MoltenVK manually.<br>
-Inside the .zip file you will find a folder titled "MoltenVK". Crossover 21 comes with an outdated version of MoltenVK. Marzent has compiled the latest version.
-We're seeing upwards to 25% more performance & stability vs the one shipped with CX21. It's now become the preferred method on newer hardware.<br><br>
-To manually update Crossover's MoltenVK, use the latest `libMoltenVK.dylib` from  the zip to overwrite the old one inside the Crossover.app here:<br>
-<img src="https://i.imgur.com/K3w3nBb.png"><br>
-
-<b>(NOT RECOMMENDED)</b><br>
-If you dont want to patch and prefer to play without mods or only a Mac license, skip this section and follow steps 1-3 only.<br>
-
-------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install</h3>
 
-<div align="center"><h6> Right click & "Save Link as": <a href="https://raw.githubusercontent.com/marzent/ffxiv-on-mac/main/Final%20Fantasy%20XIV%20Online.tie" download>Final Fantasy 14 Online.tie</a> and save to desktop or downloads folder.<br><br>
+<div align="center"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac">ffxiv-on-mac</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">here</a> <br><br>
   
 
   
- Double click the .tie file you just downloaded and press load:
+ Double click the `install.command` file inside the folder you just downloaded and follow the instructions inside the Terminal window:
+  <p align="center"> 
+<img src="https://imgur.com/fuGBZn0.png">
+</p>
+  
+ Once it finishes press load in the CrossOver window that pops up:
 <p align="center"> 
 <img src="https://i.imgur.com/GVpKFwP.png">
 </p>
