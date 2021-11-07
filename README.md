@@ -181,7 +181,7 @@ ACT requires wireshark installed to function with networking. <br> Make sure you
 Alternatively you can download this from the Wireshark Mac Homebrew page https://formulae.brew.sh/cask/wireshark-chmodbpf<br><br>
   
 ------------------------------------------------------------------------------------------------------------ 
-ACT Networking will only work through WinPcap. Enable this in ACT settings after installing the script and BPF install above.<br><br>
+ACT Networking will only work through WinPcap. Enable this in ACT settings:<br><br>
   
 <p align="center"> 
 <img src="https://i.imgur.com/TgIrulK.png">
