@@ -29,7 +29,7 @@
 Intro:
 ------------------------------------------------------------------------------------------------------------
 <div align="center">
-   <h2>WARNING:</h2>
+   <h1>WARNING: READ HERE FIRST!</h1>
 <h6>This requires a legit copy of Crossover 21 Stable (Nightly builds are supported but use at your own risk). <br> Cracked versions of Crossover will actually tank your performance.<br>
 Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 
