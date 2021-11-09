@@ -354,7 +354,7 @@ External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an extern
 ---
 
   
-   <b>Seathasky</b> (Guide Author, Support) <br><br>
+   <b>Seathasky</b> (Guide Author, Support) <br>
   <p align="left"> <a href="https://github.com/seathasky/" title="Seathasky">
     <img width="90" height="90" src="https://i.imgur.com/eJcFs2U.jpg"></a>
 </p>
