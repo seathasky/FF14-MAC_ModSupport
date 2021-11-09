@@ -68,6 +68,9 @@ Updates & News:
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install using our patcher</h3>
+<h6>M1 users skip the MoltenVK update, it's causing black screens: https://github.com/seathasky/FF14-MAC_ModSupport/issues/13</h6>
+
+---
 
 <div align="center"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac">ffxiv-on-mac</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">here</a> <br><br>
   
