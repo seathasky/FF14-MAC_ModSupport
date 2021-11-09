@@ -348,11 +348,16 @@ External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an extern
 
 ------------------------------------------------------------------------------------------------------------
   
-If you feel we've missed anything or run into issue installing, use the issue tracker here, and we'll try and assist you the best we can. 
- 
-Good luck!!
+<h6>If you feel we've missed anything or run into issue installing, use the issue tracker here, and we'll try and assist you the best we can. 
+  Good luck!!</h6>
 
-<h4>-Seathasky & Marzent</h4>
+---
+
+  
+<img width="90" height="90" src="https://i.imgur.com/eJcFs2U.jpg"><br>  
+  <b>Seathasky</b> (Guide Author, Support) <br><br>
+<img width="90" height="90" src="https://i.imgur.com/t4JeLLA.png"><br>  
+  <b>Marzent</b> (Head Developer, Support)
   
 ------------------------------------------------------------------------------------------------------------  
   
