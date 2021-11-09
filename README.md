@@ -68,7 +68,7 @@ Updates & News:
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install using our patcher</h3>
-<h6>M1 users skip the MoltenVK update, it's causing black screens: https://github.com/seathasky/FF14-MAC_ModSupport/issues/13</h6>
+<h5>WARNING: M1 users skip the MoltenVK update, it's causing black screens: https://github.com/seathasky/FF14-MAC_ModSupport/issues/13</h5>
 
 ---
 
