@@ -36,8 +36,11 @@ Support Codeweavers, it's worth it! https://www.codeweavers.com/</h6>
 <h6>Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee!
 This guide is a 100% manual install guide. If you need assistance, post on the issue tracker.<br>Both Mac and Windows licenses will work but a Windows license is preferable.</h6>
 
-Mods have been tested and working on latest macOS Catalina, macOS Big Sur and macOS Monterey.<br>
-Older versions of macOS are NOT supported! </div>
+Mods have been tested and working on latest macOS Catalina, macOS Big Sur and macOS Monterey.<br> Older versions of macOS are NOT supported!<br><br>
+  
+Square Enix are currently NOT supporting M1 processors for FF14 at this time,<br>but we will try our best to assist you the best we can if you run in to any issues.
+  <p align="center"> <img src="https://i.imgur.com/oVyOULY.jpg"></p>
+  </div>
 
 ---
 
