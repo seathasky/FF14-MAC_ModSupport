@@ -121,7 +121,9 @@ Alternatively, you can manually install with our depreciated guide by following 
 
 ------------------------------------------------------------------------------------------------------------
 <div align="center">
-<h6>Go to your new bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ <br>and open "CXBOTTLE.CONF" Here:
+<h6>Go to your new bottle folder @ Users/USERNAME/Library/Application Support/Crossover/Bottles/YOURBOTTLENAME/ <br>and open "CXBOTTLE.CONF" Here:<br>
+  <br>
+  (Press Command+Shift+Dot inside USERNAME folder to unhide "Library" folder)
   
  
   <p align="center"> 
