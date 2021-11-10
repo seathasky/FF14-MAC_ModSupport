@@ -72,7 +72,7 @@ Updates & News:
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install using our patcher</h3>
-<h2>M1 and Intel users now have their own seperate patchers. Make sure you select the correct one below or you may run into issues installing.</h2>
+<h4>M1 and Intel users now have their own seperate patchers. Make sure you select the correct one below or you may run into issues installing.</h4>
 
 ---
 
