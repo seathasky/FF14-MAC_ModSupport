@@ -51,8 +51,12 @@ Square Enix are currently NOT supporting M1 processors for FF14 at this time,<br
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+
+<strong>November 10, 2021:</strong>
+- <img src="https://i.imgur.com/MkD6117.gif"> `Seperate branch of ffxiv-on-mac patching now available for m1 users.`
+
 <strong>November 7, 2021:</strong>
-- <img src="https://i.imgur.com/MkD6117.gif"> `New easy install.command method. MoltenVK update method now included in patcher for even more performance.`
+- `New easy install.command method. MoltenVK update method now included in patcher for even more performance.`
 
 <strong>November 2, 2021:</strong> 
 - `New Crossover crosstie install now default method. Step #'s have changed in process.`   
@@ -68,17 +72,20 @@ Updates & News:
 Setup Guide:
 ------------------------------------------------------------------------------------------------------------
 <h2>STEP 1:</h2>  <h3>Install using our patcher</h3>
-<h1>WARNING: M1 users skip the MoltenVK update, it's causing black screens: https://github.com/seathasky/FF14-MAC_ModSupport/issues/13</h1>
+<h2>M1 and Intel users now have their own seperate patchers. Make sure you select the correct one below or you may run into issues installing.</h2>
 
 ---
 
-<div align="center"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac">ffxiv-on-mac</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">here</a> <br><br>
+<h2>M1 Mac Patcher:</h2><div align="left"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac/tree/m1">ffxiv-on-mac-m1</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/m1.zip">m1 here</a> <br><br>
   
+<h2>Intel Mac Patcher:</h2> <div align="left"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac">ffxiv-on-mac-intel</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">intel here</a></div>
+  
+---
 
-  
- Double click the `install.command` file inside the folder you just downloaded<br> and follow the instructions inside the Terminal window:
-  <p align="center"> 
-<img src="https://imgur.com/fuGBZn0.png">
+<div align="center">
+<h6> Double click the `install.command` file inside the folder you just downloaded<br> and follow the instructions inside the Terminal window:
+  <p align="center"> <br><br>
+<img src="https://imgur.com/fuGBZn0.png"><br><br>
 </p>
   
  Once it finishes press load in the CrossOver window that pops up:
@@ -109,9 +116,9 @@ Setup Guide:
   <br>
   <p align="center"> 
 <img src="https://i.imgur.com/auSZR0N.png">
-</p><br><br>
+  </p><br><br></h6>
   
-  Continue to step 2 for performance tweaks.</div><br>
+  Continue to step 2 for performance tweaks.<br>
   
   
 ------------------------------------------------------------------------------------------------------------
