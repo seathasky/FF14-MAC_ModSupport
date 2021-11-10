@@ -118,7 +118,7 @@ Setup Guide:
 <img src="https://i.imgur.com/auSZR0N.png">
   </p><br><br></h6>
   
-  Continue to step 2 for performance tweaks.<br>
+  Continue to step 2 for performance tweaks.</div><br>
   
   
 ------------------------------------------------------------------------------------------------------------
