@@ -78,7 +78,7 @@ Setup Guide:
 
 <h2>M1 Mac Patcher:</h2><div align="left"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac/tree/m1">ffxiv-on-mac-m1</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/m1.zip">m1 here</a> <br><br>
   
-<h2>Intel Mac Patcher:</h2> <div align="left"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac">ffxiv-on-mac-intel</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">intel here</a></div>
+<h2>Intel/Hackintosh Mac Patcher:</h2> <div align="left"><h6> Clone <a href="https://github.com/marzent/ffxiv-on-mac">ffxiv-on-mac-intel</a> or download the zip <a href="https://github.com/marzent/ffxiv-on-mac/archive/refs/heads/main.zip">intel here</a></div>
   
 ---
 
