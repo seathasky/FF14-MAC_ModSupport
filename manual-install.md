@@ -73,9 +73,6 @@ The official "Final Fantasy XIV" template is broken and will break the bottle if
 
 **(OR)** copy the SE folder from a windows install into your bottle (this makes things faster)<br><br>
 
-Alternatively, you can install the game by launching XIVlauncher and using the main install guide **(Recommended)** <br><br>
-  
-
   
 Running the game:
 ------------------------------------------------------------------------------------------------------------
