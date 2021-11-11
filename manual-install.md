@@ -84,5 +84,11 @@ Running the game:
 You can make a command inside your bottle by finding the ffxivboot64.exe so you can drag it to your dock.<br><br>
 
 If you want to use XIVLauncher instead, follow the main guide. <br><br>
+  
+---
+  
+The default FF14 launcher has some issues, go to our troubleshooting section for help: https://github.com/seathasky/FF14-MAC_ModSupport#troubleshooting
+  
+---
 
 This concludes the manual setup guide for minimal install of default FF14 launcher in CX21.</h6>
