@@ -191,7 +191,7 @@ If you skipped steps in the "ffxiv-on-mac" patcher, most mods will not work! Re-
 (You can skip the crosstie again obviously)
   <br><br>
 
-Mods have been tested and working on latest macOS Catalina, Big Sur and Monterey. Older verions of macOS are not supported!
+Mods have been tested and working on latest macOS Catalina, Big Sur and Monterey. Older versions of macOS are not supported!
  <br><br>
 Xivlauncher may break with a FF14 Mac only game license after it updates, though this is already fixed and only needs to be merged back. 
 <br>
