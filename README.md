@@ -8,7 +8,7 @@
  ---
 <p align="center"><img width="100" height="100" src="https://i.imgur.com/a1fyRka.gif"></p>
 <div align="center"><h1>BREAKING NEWS (NOVEMBER 11TH)</h1>
-<h4>IF YOU'RE ON A FF14 MAC LICENSE, AND CAN NOT LOGIN AFTER XIVLAUNCHER UPDATE, PLEASE REFER TO OUR FIX HERE:</p>
+<h4>IF YOU'RE ON A FF14 MAC LICENSE, AND CAN NOT LOGIN AFTER XIVLAUNCHER UPDATE,<br>PLEASE REFER TO OUR FIX HERE:</p>
 https://github.com/seathasky/FF14-MAC_ModSupport/issues/15</h4></div>
   
  ---
