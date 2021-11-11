@@ -17,30 +17,29 @@ Updates & News:
 
 <strong>November 11, 2021:</strong>
 
- <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/15" title="fix">
-<p align="center"><img width="70" height="70" src="https://i.imgur.com/a1fyRka.gif"></p></a>
-<div align="center"><h2>BREAKING NEWS</h2>
-<h4>IF YOU'RE ON A FF14 MAC LICENSE, AND CAN NOT LOGIN AFTER XIVLAUNCHER UPDATE,<br>PLEASE REFER TO OUR FIX HERE:</p>
-https://github.com/seathasky/FF14-MAC_ModSupport/issues/15</h4></div>
+- <img src="https://i.imgur.com/MkD6117.gif"> Added DXVK update to preformance section
+
+-  &nbsp;&nbsp;⚠️&nbsp;&nbsp;&nbsp; If you own a FF14 Mac license and cannot login after XIVLauncher update
+  please go [here](https://github.com/seathasky/FF14-MAC_ModSupport/issues/15) to fix
 
 <details> 
   <summary>Show older items</summary>
  
 <strong>November 10, 2021:</strong>
-- <img src="https://i.imgur.com/MkD6117.gif"> `Seperate branch of ffxiv-on-mac patching now available for m1 users.` 
+- Seperate branch of ffxiv-on-mac patching now available for m1 users. 
  
 <strong>November 7, 2021:</strong>
-- `New easy install.command method. MoltenVK update method now included in patcher for even more performance.`
+- New easy install.command method. MoltenVK update method now included in patcher for even more performance.
 
 <strong>November 2, 2021:</strong> 
-- `New Crossover crosstie install now default method. Step #'s have changed in process.`   
+- New Crossover crosstie install now default method. Step #'s have changed in process.  
 
 <strong>November 1, 2021:</strong> 
-- `Dalamud plugins are now fixed on Mac and Linux.`   
-- <strike>`Temporary issues with Dalamud plugins in XIVLauncher. https://github.com/seathasky/FF14-MAC_ModSupport/issues/5`</strike>
+- Dalamud plugins are now fixed on Mac and Linux.   
+- <strike>Temporary issues with Dalamud plugins in XIVLauncher. https://github.com/seathasky/FF14-MAC_ModSupport/issues/5</strike>
 
 <strong>October 30, 2021:</strong>
-- `FF14 on MAC w/ Full Mod Support Guide via Crossover 21 complete.`</div>
+- FF14 on MAC w/ Full Mod Support Guide via Crossover 21 complete.
 </details>
 
 
