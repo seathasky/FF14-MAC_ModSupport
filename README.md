@@ -304,7 +304,7 @@ Anamnesis. It's still in early beta and there are a ton of bugs, including crash
   
 Then download the latest version of Anamnesis here: https://github.com/imchillin/Anamnesis<br><br>
   
-  My character with custom green shrek look in /gpose lol
+ Seathasky's character with custom green shrek look in /gpose lol
 <p align="center">
   <img src="https://i.imgur.com/vPhmOsO.png">
 </p>
