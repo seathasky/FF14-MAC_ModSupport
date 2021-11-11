@@ -165,7 +165,7 @@ Copy below:</div>
  
  <h3>Upgrading DXVK</h3>
  
-1. Grab the latest dxvk build for mac from <a href=https://github.com/marzent/dxvk/releases/download/v1.9.2-mac/dxvk-1.9.2-mac.zip> here </a> 
+1. Grab the latest dxvk build for mac from <a href=https://github.com/marzent/dxvk/releases> here </a> 
 2. Extract the zip file and copy the contents of the `x64` folder into the `windows/system32` folder of your bottle and overwrite all files if prompted.
 3. When starting the game with a full `DXVK_HUD` it should look sth like this now:  
  <p align="center">
@@ -178,7 +178,7 @@ Copy below:</div>
 
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h2>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
- <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-8-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h2></div>
+ <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h2></div>
 <br>
 
 ------------------------------------------------------------------------------------------------------------
