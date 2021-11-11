@@ -159,7 +159,6 @@ Alternatively, you can manually install with our depreciated guide by following 
 Copy below:</div>
 ```json
  "WINEESYNC" = "1"
- "XL_WINEONLINUX" = "true"
  "DXVK_HUD" = "fps"
  "DXVK_FRAME_RATE" = "0"
  "GL_SHADER_DISK_CACHE_SKIP_CLEANUP" = "1"
