@@ -304,13 +304,13 @@ Anamnesis. It's still in early beta and there are a ton of bugs, including crash
   
 Then download the latest version of Anamnesis here: https://github.com/imchillin/Anamnesis<br><br>
   
- Seathasky's character with custom green shrek look in /gpose lol
+ Seathasky's character with custom green shrek look in /gpose
 <p align="center">
   <img src="https://i.imgur.com/vPhmOsO.png">
 </p>
 <br><br>
    
-I will not support this mod in the Issue tracker at all, so please dont ask. Use at your own risk :)</h6></div>
+We will not support this mod in the Issue tracker at all, so please dont ask. Use at your own risk :)</h6></div>
   
 ------------------------------------------------------------------------------------------------------------
 STEP 7: (optional) - So you want to use your FF14 Windows License instead of the Mac one.
