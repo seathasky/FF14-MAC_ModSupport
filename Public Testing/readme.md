@@ -6,7 +6,7 @@ We will eventually move these to patcher if they provide better peformance.
 <h2>Please report any issues/positives you're experiencing<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/16"> here</a></h2>
 
 
-<h4>Molten VK 1.1.6 Testing:<h4>    
+<h4>Molten VK 1.1.6 (no dxvk patch):<h4>    
 <a href="https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/libMoltenVK.dylib-1.1.6.zip">libMoltenVK.dylib-1.1.6.zip</a> 
 
 ---  
