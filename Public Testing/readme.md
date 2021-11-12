@@ -13,7 +13,7 @@ We will eventually move these to patcher if they provide better peformance.
   
   <h2>How to manually Install:</h2>
   
-  Right Click Crossover.app in applications:<br>
+  Right Click Crossover.app in applications, click show package contents:<br>
   <img src=https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/CrossoverShow.png> <br>
   
   
