@@ -163,7 +163,7 @@ Copy below:</div>
  "DXVK_HUD" = "fps,compiler"
  ```
  
- <h3>Upgrading DXVK</h3>
+<h3><img src="https://i.imgur.com/MkD6117.gif">Upgrading DXVK</h3>
  
 1. Grab the latest dxvk build for mac from <a href=https://github.com/marzent/dxvk/releases> here </a> 
 2. Extract the zip file and copy the contents of the `x64` folder into the `windows/system32` folder of your bottle and overwrite all files if prompted.
@@ -176,7 +176,7 @@ Copy below:</div>
  If you want to revert to stock Crossover DXVK just uncheck and check the DXVK Backend for D3D11 option of your bottle. </h6></div>
  <br>
 
-<h2>Bleeding Edge MoltenVK Builds</h2>
+<h2><img src="https://i.imgur.com/MkD6117.gif">Bleeding Edge MoltenVK Builds</h2>
 <div align="left"> <h5>The very latest MoltenVK builds for public testing can be found <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing">here</a> in our public testing section. Report any issues in our issue tracker if you decide to use these.</h5>
 
 </div><br>
