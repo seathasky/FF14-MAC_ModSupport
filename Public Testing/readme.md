@@ -14,12 +14,14 @@ We will eventually move these to patcher if they provide better peformance.
   <h2>How to manually Install:</h2>
   
   Right Click Crossover.app in applications, click show package contents:<br>
-  <img src=https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/CrossoverShow.png> <br>
+  <img src="https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/CrossoverShow.png"> <br>
   
   
  Find the lib64 folder. Backup the current libMoltenvk.dylib file, and replace it with the latest bleeding edge from the zip.<br>
   
-  <img src=https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/InstallMoltenVK.png>
+  <img src="https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/InstallMoltenVK.png">
+  
+  <p align= "center"> <img src="https://i.imgur.com/3T3S21R.png"></p>
                                                                                                                                   
   
 
