@@ -1,6 +1,6 @@
 <h1> Bleeding Edge Builds </h1>
 
-Here you will find the most bleeding edge builds we've compiled ourselves. <br>
+Here you will find the most bleeding edge Moltenvk builds we've compiled ourselves. <br>
 We will eventually move these to patcher if they provide better peformance.
 
 <h2>Please report any issues/positives you're experiencing<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/16"> here</a></h2>
