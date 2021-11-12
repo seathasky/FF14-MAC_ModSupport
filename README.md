@@ -176,14 +176,14 @@ Copy below:</div>
  If you want to revert to stock Crossover DXVK just uncheck and check the DXVK Backend for D3D11 option of your bottle. </h6></div>
  <br>
 
-<h3>Bleeding Edge MoltenVK Builds</h3>
-<div align="left"> <h6>The very latest MoltenVK builds for public testing can be found <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing">here</a> in our public testing section. Report any issues in our issue tracker if you decide to use these.</h6>
+<h2>Bleeding Edge MoltenVK Builds</h2>
+<div align="left"> <h5>The very latest MoltenVK builds for public testing can be found <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing">here</a> in our public testing section. Report any issues in our issue tracker if you decide to use these.</h5>
 
 </div><br>
 
 ------------------------------------------------------------------------------------------------------------
-<div align="center"><h2>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
- <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h2></div>
+<div align="center"><h3>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
+ <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h3></div>
 <br>
 
 ------------------------------------------------------------------------------------------------------------
