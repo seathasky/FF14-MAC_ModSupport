@@ -1,4 +1,4 @@
-<h3> Bleeding Edge Builds </h3>
+<h1> Bleeding Edge Builds </h1>
 
 Here you will find the most bleeding edge builds we've compiled ourselves. <br>
 We will eventually move these to patcher if they provide better peformance.
