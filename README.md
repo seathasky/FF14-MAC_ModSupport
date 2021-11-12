@@ -176,9 +176,8 @@ Copy below:</div>
  If you want to revert to stock Crossover DXVK just uncheck and check the DXVK Backend for D3D11 option of your bottle. </h6></div>
  
  ---
- <h2>ADVANCED USERS</h2>
- 
- <h3>Bleeding Edge MoltenVK Builds</h3>
+
+<h3>Bleeding Edge MoltenVK Builds</h3>
 <div align="left"> The very latest MoltenVK builds for public testing can be found <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing">here</a> in our public testing section. Report any issues in our issue tracker if you decide to use these.
 
 </div>
