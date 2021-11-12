@@ -17,7 +17,7 @@ We will eventually move these to patcher if they provide better peformance.
   <img src=https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/CrossoverShow.png> <br>
   
   
- Find the lib64 folder. Backup the current libMoltenvk.dylib file, and replace it with the latest bleeding edge.<br>
+ Find the lib64 folder. Backup the current libMoltenvk.dylib file, and replace it with the latest bleeding edge from the zip.<br>
   
   <img src=https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/InstallMoltenVK.png>
                                                                                                                                   
