@@ -50,10 +50,10 @@ Updates & News:
   - [Setup Guide - Read me First | Step 1 and 2](#setup-guide)
   - [Setup Guide for Mods](#continued-setup-guide-for-mod-support)
   - [Mods - ACT Parser](#step-3---act-parser)
-  - [Mods - XIVLauncher, Plugins & Steam Account support](#step-4---xivlauncher-plugins--steam-account-support)
+  - [Mods - XIVLauncher & Dalamud Plugins](#step-4---xivlauncher--dalamud-plugins)
   - [Mods - Gshade](#step-5---gshade)
   - [Mods - Anamnesis (aka) CMTool Mod](#step-6-anamnesis-aka-cmtool-mod)
-  - [Using your Windows License Instead on Mac](#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one)
+  - [Using your Windows/Steam License Instead on Mac](#step-7-optional---using-your-ff14-windows-license-on-mac-or-windows-steaam-account)
   - [Troubleshooting](#troubleshooting)
 
 ---
@@ -310,7 +310,7 @@ Then download the latest version of Anamnesis here: https://github.com/imchillin
 We will not support this mod in the Issue tracker at all, so please dont ask. Use at your own risk :)</h6></div>
   
 ------------------------------------------------------------------------------------------------------------
-STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows steaam account:
+STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steaam account:
 ------------------------------------------------------------------------------------------------------------
  
  <div align="center"><h6>If you want to use a FF14 windows license instead, make sure you patched for it.
