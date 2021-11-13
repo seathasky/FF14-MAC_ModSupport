@@ -261,7 +261,7 @@ If you have XIVlauncher specific errors, you can issue track here: https://githu
 
 ------------------------------------------------------------------------------------------------------------  
   
-If you have a FF14 Steam account, you will need to enable this option in XIVLauncher before you login:</h6>
+If you have a Windows Steam account license, you will need to enable this option in XIVLauncher before you login:</h6>
 <p align="center"> 
 <img src="https://i.imgur.com/ttUyk5K.png">
 </p></div>
