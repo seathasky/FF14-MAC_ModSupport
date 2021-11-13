@@ -257,7 +257,7 @@ You will need this for full overlay support in ACT. Sort of like Hudkit on linux
 <div align="center"><h6>
 Dalamud plugins inside XIVLauncher should work by default if you have patched for XIVLauncher injection.<br><br>
 When Square Enix patches FF14, we usually lose plugin support until Dalamud is updated again. This happens on all platiforms.<br><br>
-If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher</div> <br><br>
+If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher</div>
  
 ------------------------------------------------------------------------------------------------------------
 **STEP 5:** - Gshade:
