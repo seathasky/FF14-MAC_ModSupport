@@ -252,20 +252,13 @@ You will need this for full overlay support in ACT. Sort of like Hudkit on linux
  Default ACT overlays are not working, this APP is 100% required!</h6></div>
  
 ------------------------------------------------------------------------------------------------------------
-**STEP 4 - XIVLauncher, Plugins & Steam Account support**:
+**STEP 4 - XIVLauncher & Dalamud Plugins**:
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h6>
 Dalamud plugins inside XIVLauncher should work by default if you have patched for XIVLauncher injection.<br><br>
 When Square Enix patches FF14, we usually lose plugin support until Dalamud is updated again. This happens on all platiforms.<br><br>
-If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher <br><br>
-
-------------------------------------------------------------------------------------------------------------  
-  
-If you have a Windows Steam account license, you will need to enable this option in XIVLauncher before you login:</h6>
-<p align="center"> 
-<img src="https://i.imgur.com/ttUyk5K.png">
-</p></div>
-
+If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher</div> <br><br>
+ 
 ------------------------------------------------------------------------------------------------------------
 **STEP 5:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
@@ -317,7 +310,7 @@ Then download the latest version of Anamnesis here: https://github.com/imchillin
 We will not support this mod in the Issue tracker at all, so please dont ask. Use at your own risk :)</h6></div>
   
 ------------------------------------------------------------------------------------------------------------
-STEP 7: (optional) - So you want to use your FF14 Windows License instead of the Mac one.
+STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows steaam account:
 ------------------------------------------------------------------------------------------------------------
  
  <div align="center"><h6>If you want to use a FF14 windows license instead, make sure you patched for it.
@@ -331,6 +324,13 @@ STEP 7: (optional) - So you want to use your FF14 Windows License instead of the
 </p>
    
    Vice versa, use HideWineExports = 0 to revert to a Mac license  </h6></div>
+ 
+ ---
+ 
+ If you have a Windows Steam account license, you will need to enable this option in XIVLauncher before you login:</h6>
+<p align="center"> 
+<img src="https://i.imgur.com/ttUyk5K.png">
+</p></div>
 
 ------------------------------------------------------------------------------------------------------------
 Troubleshooting:
