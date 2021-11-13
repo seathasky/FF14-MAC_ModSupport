@@ -7,7 +7,7 @@ We will eventually move these to patcher if they provide better peformance.
 
 
 <h4>Download Molten VK 1.1.6:<h4>    
-<a href="https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/libMoltenVK.dylib-1.1.6.zip">libMoltenVK.dylib-1.1.6.zip</a> 
+Coming Soon!
 
 ---  
   
