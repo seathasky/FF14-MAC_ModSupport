@@ -326,7 +326,7 @@ STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steaam ac
  
  ---
  
- If you have a Windows Steam account license, you will need to enable this option in XIVLauncher before you login:</h6>
+<h6> If you have a Windows Steam account license, you will need to enable this option in XIVLauncher before you login:</h6>
 <p align="center"> 
 <img src="https://i.imgur.com/ttUyk5K.png">
 </p></div>
