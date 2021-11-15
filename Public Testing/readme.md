@@ -6,8 +6,8 @@ We will eventually move these to patcher if they provide better peformance.
 <h2>Please report any issues/positives you're experiencing<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/16"> here</a></h2>
 
 
-<h4>Download Molten VK 1.1.6:<h4>    
-  <h3>Coming Soon!</h3>
+Latest Mac compatible MoltenVK Builds:<br>
+https://github.com/Gcenx/MoltenVK/releases
 
 ---  
   
