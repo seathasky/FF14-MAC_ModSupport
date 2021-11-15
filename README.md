@@ -178,7 +178,8 @@ Copy below:</div>
 
 <h2><img src="https://i.imgur.com/MkD6117.gif">Bleeding Edge MoltenVK Builds</h2>
 <div align="left"> <h5>The very latest MoltenVK builds for public testing can be found in our public testing section. Report any issues in our issue tracker if you decide to use these.</h5>
-</div><br>
+ <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing"> Public Testing</a>
+</div>
 
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h3>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
