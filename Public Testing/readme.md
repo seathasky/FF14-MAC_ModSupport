@@ -13,7 +13,12 @@ https://github.com/Gcenx/MoltenVK/releases
   
   <h2>How to manually Install:</h2>
   
-  Right Click Crossover.app in applications, click show package contents:<br>
+  Download one the latest DXVK patched MoltenVK builds from the link above:<br>
+  <img src="https://i.imgur.com/hqBFc6H.png"><br>
+  
+ ---
+  
+  Right Click Crossover.app in applications, click show package contents:<br><br>
   <img src="https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/CrossoverShow.png"> <br>
   
   
