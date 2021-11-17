@@ -6,6 +6,17 @@ We will eventually move these to patcher if they provide better peformance.
 <h2>Please report any issues/positives you're experiencing<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/16"> here</a></h2>
 
 
+
+<h2>WARNING</h2>
+BEFORE YOU CONTINUE, PLEASE READ THIS STATEMENT BY GCENX.<br>
+
+<img src="https://i.imgur.com/xUyuVNy.png">
+
+
+
+
+
+
 Latest Mac compatible MoltenVK Builds:<br>
 https://github.com/Gcenx/MoltenVK/releases
 
