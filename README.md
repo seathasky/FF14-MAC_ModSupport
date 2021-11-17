@@ -373,6 +373,23 @@ During injection of Dalamud plugins, your game may freeze. This is normal on Mac
 External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  </h6>
 
 ------------------------------------------------------------------------------------------------------------
+Graphics Settings:
+
+------------------------------------------------------------------------------------------------------------
+
+<h6>Graphics presets bundled with FFXIV are suboptimal for running in a CrossOver environment.
+Recommended graphics options to tweak are listed below in the order of graphical impact they make to your game.
+All tweaks listed assume the game has been set to either Standard (Laptop) or Standard (Mac) presets.
+</h6>
+
+------------------------------------------------------------------------------------------------------------
+
+<h5>Texture Detail</h5>
+<h6>Texture Filtering: Ansisotropic</h6>
+<h6>Ansisotropic Filtering: x8</h6>
+<h6>Notes: Easy win here. Massive improvement in texture quality for 2-3FPS. You can go up to x16 for another 1-2FPS but the visual difference is negligible.</h6>
+
+------------------------------------------------------------------------------------------------------------
   
 <h6>If you feel we've missed anything or run into issue installing, use the issue tracker here, and we'll try and assist you the best we can. 
   Good luck!!</h6>
