@@ -35,9 +35,6 @@ https://github.com/Gcenx/MoltenVK/releases
   
  Find the lib64 folder. Backup the current libMoltenvk.dylib file, and replace it with the latest bleeding edge from the zip.<br>
   
-  <img src="https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/InstallMoltenVK.png"><br>
-  <br> <br> <br>
-  <p align= "left"> <img src="https://i.imgur.com/3T3S21R.png"></p>
                                                                                                                                   
   
 
