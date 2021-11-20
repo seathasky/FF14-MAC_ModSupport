@@ -162,7 +162,7 @@ Copy below:</div>
  ```json
  "DXVK_HUD" = "fps,compiler"
  ```
- 
+
 <h3><img src="https://i.imgur.com/MkD6117.gif">Upgrading DXVK</h3>
  
 1. Grab the latest dxvk build for mac from <a href=https://github.com/marzent/dxvk/releases> here </a> 
@@ -180,7 +180,10 @@ Copy below:</div>
 <div align="left"> <h5>The very latest MoltenVK builds for public testing can be found in our public testing section. Report any issues in our issue tracker if you decide to use these.</h5>
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing"> Public Testing</a>
 </div>
-
+<br />
+<h2>Graphics Settings</h3>
+<div align="left"><h5>Head over to https://github.com/seathasky/FF14-MAC_ModSupport/issues/25 for some tweaks you can make to graphics settings.</div></h5>
+<br />
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h3>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h3></div>
@@ -373,7 +376,7 @@ During injection of Dalamud plugins, your game may freeze. This is normal on Mac
 External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  </h6>
 
 ------------------------------------------------------------------------------------------------------------
-  
+
 <h6>If you feel we've missed anything or run into issue installing, use the issue tracker here, and we'll try and assist you the best we can. 
   Good luck!!</h6>
 
