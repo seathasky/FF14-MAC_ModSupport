@@ -162,6 +162,7 @@ Copy below:</div>
  ```json
  "DXVK_HUD" = "fps,compiler"
  ``` 
+ 
 <h3><img src="https://i.imgur.com/MkD6117.gif">Upgrading DXVK</h3>
  
 1. Grab the latest dxvk build for mac from <a href=https://github.com/marzent/dxvk/releases> here </a> 
