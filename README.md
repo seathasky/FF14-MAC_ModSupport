@@ -161,8 +161,7 @@ Copy below:</div>
  Additionaly if you want to see some extra stats during gameplay set `DXVK_HUD` to the [options](https://github.com/doitsujin/dxvk#hud) you would like to see, for instance:
  ```json
  "DXVK_HUD" = "fps,compiler"
- ```
- 
+ ``` 
 <h3><img src="https://i.imgur.com/MkD6117.gif">Upgrading DXVK</h3>
  
 1. Grab the latest dxvk build for mac from <a href=https://github.com/marzent/dxvk/releases> here </a> 
@@ -180,7 +179,10 @@ Copy below:</div>
 <div align="left"> <h5>The very latest MoltenVK builds for public testing can be found in our public testing section. Report any issues in our issue tracker if you decide to use these.</h5>
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing"> Public Testing</a>
 </div>
-
+<br />
+<h2>Graphics Settings</h3>
+<div align="left"><h5>Head over to https://github.com/seathasky/FF14-MAC_ModSupport/issues/25 for some tweaks you can make to graphics settings.</div></h5>
+<br />
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h3>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h3></div>
@@ -373,125 +375,7 @@ During injection of Dalamud plugins, your game may freeze. This is normal on Mac
 External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an external harddrive will only work if you symlink. More info here: https://github.com/seathasky/FF14-MAC_ModSupport/issues/4 <br><br>  </h6>
 
 ------------------------------------------------------------------------------------------------------------
-Graphics Settings:
 
-------------------------------------------------------------------------------------------------------------
-
-<h6>Graphics presets bundled with FFXIV are suboptimal for running in a CrossOver environment.
-Recommended graphics options to tweak are listed below in the order of graphical impact they make to your game.
-All tweaks listed assume the game has been set to either Standard (Laptop) or Standard (Mac) presets. Some of the options listed below are not available if using a Mac license - just skip over ones that you can't find.
-</h6>
-<br />
-<h6>Feel free to play around with these. This was put together on an M1 Pro targeting 60FPS at 2560x1440, so you may need to set some things slightly higher or lower.</h6>
-<br />
-<h6>Before: https://imgur.com/SbUzDwT</h6>
-<h6>After: https://imgur.com/Q8GyICm</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-<h5>UI Resolution</h5>
-<h6>Value: High (4K)</h6>
-<h6>Notes: Much sharper UI elements, no FPS penalty.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-<h5>Texture Detail</h5>
-<h6>Texture Filtering: Anisotropic</h6>
-<h6>Ansisotropic Filtering: x8</h6>
-<h6>Notes: Easy win here. Massive improvement in texture quality for 2-3FPS. You can go up to x16 for another 1-2FPS but the visual difference is negligible.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Use low-detail models on distant objects. (LOD)</h5>
-<h6>Value: Off</h6>
-<h6>Notes: Another easy win. Massive improvement in shadows/textures on faraway terrain with little FPS loss.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-<h5>Edge Smoothing</h5>
-<h6>Value: FXAA</h6>
-<h6>Notes: Leave Off if you don't like FXAA or are injecting AA using GShade already.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Shadows</h5>
-<h6>Value: Display for all categories</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Shadow Softening</h5>
-<h6>Value: Strong</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Shadow Cascading</h5>
-<h6>Value: Best</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-<h5>Grass Quality</h5>
-<h6>Value: High</h6>
-<h6>Notes: Little FPS loss for big improvement in terrain quality.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-
-<h5>Parallax Occlusion</h5>
-<h6>Value: High</h6>
-<h6>Notes: Improves textures on the ground. Substantial FPS hit (5-6FPS) so leave on normal if you're experiencing bad performance.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-
-<h5>Tesselation</h5>
-<h6>Value: Normal (no change)</h6>
-<h6>Notes: Including this as a warning - do <b>not</b> set this to High. This does not play nice with MoltenVK and will tank performance in areas with lots of foilage with no graphical improvements to show for it.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Screen Space Ambient Occlusion</h5>
-<h6>Value: Light</h6>
-<h6>Notes: Improves lighting in indoor/shadowy areas. Disable if your FPS gets too low.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Real-time Reflections</h5>
-<h6>Value: Standard</h6>
-<h6>Notes: Improves lighting on shiny surfaces. Disable if your FPS gets too low.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Movement Physics</h5>
-<h6>Value: Full for all options</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-<h5>Use low-detail models on shadows</h5>
-<h6>Value: Off</h6>
-<h6>Notes: Nice eyecandy but does cause a 3-4FPS hit in very crowded areas (e.g Limsa Lominsa Aetheryte). Leave on if on a weaker GPU.</h6>
-
-------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-  
 <h6>If you feel we've missed anything or run into issue installing, use the issue tracker here, and we'll try and assist you the best we can. 
   Good luck!!</h6>
 
