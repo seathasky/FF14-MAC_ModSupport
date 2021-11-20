@@ -15,15 +15,19 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 
+<strong>November 20, 2021:</strong>
+
+- <img src="https://i.imgur.com/MkD6117.gif"> New community graphic settings section in issue tracker <b>(Thanks FleetAdmiralButter)</b>
+
+<details> 
+  <summary>Show older items</summary>
+ 
 <strong>November 11, 2021:</strong>
 
 - <img src="https://i.imgur.com/MkD6117.gif"> Added DXVK update, and Public testing to performance section
 
 -  &nbsp;&nbsp;⚠️&nbsp;&nbsp;&nbsp; If you own a FF14 Mac license and cannot login after XIVLauncher update
-  please go [here](https://github.com/seathasky/FF14-MAC_ModSupport/issues/15) to fix
-
-<details> 
-  <summary>Show older items</summary>
+  please go [here](https://github.com/seathasky/FF14-MAC_ModSupport/issues/15) to fix 
  
 <strong>November 10, 2021:</strong>
 - Seperate branch of ffxiv-on-mac patching now available for m1 users. 
@@ -181,10 +185,11 @@ Copy below:</div>
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport/tree/main/Public%20Testing"> Public Testing</a>
 </div>
 <br />
-<h2>Graphics Settings</h3>
+<h2><img src="https://i.imgur.com/MkD6117.gif">Graphics Settings</h3>
 <div align="left"><h5>Head over to https://github.com/seathasky/FF14-MAC_ModSupport/issues/25 for some tweaks you can make to graphics settings.</div></h5>
-<br />
-------------------------------------------------------------------------------------------------------------
+
+---
+
 <div align="center"><h3>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---so-you-want-to-use-your-ff14-windows-license-instead-of-the-mac-one">Step 7</a>,<br> otherwise continue guide for mod support.</h3></div>
 
