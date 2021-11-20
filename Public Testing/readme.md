@@ -6,8 +6,19 @@ We will eventually move these to patcher if they provide better peformance.
 <h2>Please report any issues/positives you're experiencing<a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/16"> here</a></h2>
 
 
+
+<h2>WARNING</h2>
+BEFORE YOU CONTINUE, PLEASE READ THIS STATEMENT BY GCENX.<br>
+
+<img src="https://i.imgur.com/xUyuVNy.png">
+
+
+
+---
+<h2>Downloads:</h2><br>
 Latest Mac compatible MoltenVK Builds:<br>
 https://github.com/Gcenx/MoltenVK/releases
+<br>
 
 ---  
   
@@ -24,9 +35,6 @@ https://github.com/Gcenx/MoltenVK/releases
   
  Find the lib64 folder. Backup the current libMoltenvk.dylib file, and replace it with the latest bleeding edge from the zip.<br>
   
-  <img src="https://github.com/seathasky/FF14-MAC_ModSupport/raw/main/Public%20Testing/Moltenvk/Moltenvk%201.1.6/InstallMoltenVK.png"><br>
-  <br> <br> <br>
-  <p align= "left"> <img src="https://i.imgur.com/3T3S21R.png"></p>
                                                                                                                                   
   
 
