@@ -16,12 +16,14 @@ BEFORE YOU CONTINUE, PLEASE READ THIS STATEMENT BY GCENX.<br>
 
 ---
 <h2>Downloads:</h2><br>
-<h3>Warning: Builds past 1.1.4 may cause black screens on M1 Macs.</h3>
+<h3>Warning: Builds past 1.1.4 may cause black screens on M1 Macs, use FleetAdmiral's complile instead</h3>
 
 Latest Mac compatible MoltenVK Builds:<br>
 https://github.com/Gcenx/MoltenVK/releases
 <br><br>
 
+<img src="https://i.imgur.com/MkD6117.gif">1.1.6 Patched for M1:<br>
+https://github.com/FleetAdmiralButter/MoltenVK/releases/tag/v1.1.6
 
 ---  
   
