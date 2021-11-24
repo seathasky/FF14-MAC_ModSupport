@@ -15,16 +15,20 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 
+<strong>November 24, 2021:</strong>
+
+- <img src="https://i.imgur.com/MkD6117.gif"> New MVK 1.1.6 patched version in public testing for M1 users! <b>(Thanks FleetAdmiralButter)</b>
+
 <strong>November 20, 2021:</strong>
 
-- <img src="https://i.imgur.com/MkD6117.gif"> New community graphic settings section in issue tracker <b>(Thanks FleetAdmiralButter)</b>
+- New community graphic settings section in issue tracker <b>(Thanks FleetAdmiralButter)</b>
 
 <details> 
   <summary>Show older items</summary>
  
 <strong>November 11, 2021:</strong>
 
-- <img src="https://i.imgur.com/MkD6117.gif"> Added DXVK update, and Public testing to performance section
+- Added DXVK update, and Public testing to performance section
 
 -  &nbsp;&nbsp;⚠️&nbsp;&nbsp;&nbsp; If you own a FF14 Mac license and cannot login after XIVLauncher update
   please go [here](https://github.com/seathasky/FF14-MAC_ModSupport/issues/15) to fix 
