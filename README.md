@@ -113,6 +113,9 @@ Setup Guide:
   <p align="center"> 
 <img src="https://i.imgur.com/auSZR0N.png">
   </p><br><br></h6>
+ 
+ If you have issues installing dependancies, check this out first before creating a new issue:<br>
+ https://github.com/seathasky/FF14-MAC_ModSupport/issues/17
   
   Continue to step 2 for performance tweaks.</div><br>
   
