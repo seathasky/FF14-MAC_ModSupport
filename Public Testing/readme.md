@@ -16,7 +16,7 @@ BEFORE YOU CONTINUE, PLEASE READ THIS STATEMENT BY GCENX.<br>
 
 ---
 <h2>Downloads:</h2><br>
-<h3>Warning: Builds past 1.1.4 may cause black screens or stuttering for M1 users. If you are on M1 and want to test, use FleetAdmirals compile, but we reccomend sticking with 1.1.4 otherwise.</h3>
+<h3>Warning: Builds past 1.1.4 may cause black screens or stuttering for M1 users. If you are on M1 and want to test, use FleetAdmirals compile, but we advice sticking with 1.1.4 otherwise.</h3>
 
 Latest Mac compatible MoltenVK Builds:<br>
 https://github.com/Gcenx/MoltenVK/releases
