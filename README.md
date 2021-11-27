@@ -184,7 +184,7 @@ Copy below:</div>
 </p>
 <div align="center">
 <h6>
- If you want to revert to stock Crossover DXVK just uncheck and check the DXVK Backend for D3D11 option of your bottle. </h6></div>
+ Upgrading DXVK will uncheck, DXVK backend in settings, if you want to revert to stock Crossover DXVK just re-check the DXVK Backend for D3D11 option of your bottle. </h6></div>
  <br>
 
 <h2>Bleeding Edge MoltenVK Builds</h2>
