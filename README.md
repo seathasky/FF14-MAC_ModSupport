@@ -61,7 +61,7 @@ Updates & News:
   - [Mods - XIVLauncher & Dalamud Plugins](#step-4---xivlauncher--dalamud-plugins)
   - [Mods - Gshade](#step-5---gshade)
   - [Mods - Anamnesis (aka) CMTool Mod](#step-6-anamnesis-aka-cmtool-mod)
-  - [Using your Windows/Steam License Instead on Mac](#step-7-optional---using-your-ff14-windows-license-on-mac-or-windows-steaam-account)
+  - [Using your Windows/Steam License Instead on Mac](#step-7-optional---using-your-ff14-windows-license-on-mac-or-windows-steam-account)
   - [Troubleshooting](#troubleshooting)
 
 ---
@@ -198,7 +198,7 @@ Copy below:</div>
 ---
 
 <div align="center"><h3>This concludes the install guide for minimal setup. If you're using a windows license without mods, skip to
- <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---using-your-ff14-windows-license-on-mac-or-windows-steaam-account">Step 7</a>,<br> otherwise continue guide for mod support.</h3></div>
+ <a href="https://github.com/seathasky/FF14-MAC_ModSupport#step-7-optional---using-your-ff14-windows-license-on-mac-or-windows-steam-account">Step 7</a>,<br> otherwise continue guide for mod support.</h3></div>
 
 ------------------------------------------------------------------------------------------------------------
 <h1>Continued Setup Guide for Mod Support:</h1>
