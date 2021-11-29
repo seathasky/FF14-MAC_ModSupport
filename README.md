@@ -325,7 +325,7 @@ Then download the latest version of Anamnesis here: https://github.com/imchillin
 We will not support this mod in the Issue tracker at all, so please dont ask. Use at your own risk :)</h6></div>
   
 ------------------------------------------------------------------------------------------------------------
-STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steaam account:
+STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steam account:
 ------------------------------------------------------------------------------------------------------------
  
  <div align="center"><h6>If you want to use a FF14 windows license instead, make sure you patched for it.
