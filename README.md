@@ -36,7 +36,7 @@ Updates & News:
  ---
  
 <details> 
-  <summary>Show older items</summary>
+  <summary>Show older news</summary>
  
  <strong>November 24, 2021:</strong>
 
