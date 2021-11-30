@@ -26,7 +26,7 @@ Updates & News:
  XIVLauncher should work fine for login/patching in Endwalker according to this statement by Goat:<br><br>
  <img src="https://i.imgur.com/MjdgH2I.png"><br>
  
- We will be monitoring this closely and provide support if needed.<br><br>
+ We will be monitoring this closely and provide support notices if needed.<br><br>
  
  If you are concerned with missing Endwalker due to unforseen issues, installing the native FF14 Launcher installed is always a good back up plan!
  See you guys on the moon!
