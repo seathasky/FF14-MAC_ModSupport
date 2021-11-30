@@ -28,7 +28,7 @@ Updates & News:
  
  We will be monitoring this closely and provide support notices if needed.<br><br>
  
- If you are concerned with missing Endwalker due to unforseen issues, installing the native FF14 Launcher is always a good back up plan!<br>
+ If you are concerned with missing Endwalker due to unforseen issues,<br> installing the native FF14 Launcher is always a good back up plan!<br><br>
  See you guys on the moon!
  
  <b>FFXIV on Mac CX Team</b>
