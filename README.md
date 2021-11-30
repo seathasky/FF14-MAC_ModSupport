@@ -15,16 +15,36 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 
-<strong>November 24, 2021:</strong>
+<strong>November 30, 2021:</strong><br><br>
+<img src="https://i.imgur.com/ifBhD0h.png"><br>
+ Endwalker approaches! In less than 3 days, we will all be doing the MSQ once again.<br><br>
+ FF14 on Mac CX issue tracking will be on life support at this time. Meaning, we wont be available to answer questions right away because we will most likely be in game enjoying ourselves.<br><br>
+ 
+ With that being said, here are some issues to expect:<br><br>
+ Dalamud Plugins (XIVLauncher Plugins) will most likely not work until updated. I'd keep an eye on the goat place discord for more info on that. Advice would be to redo your UI now in prep for that, especially if you use stuff like DelvUI.<br><br>
+ 
+ XIVLauncher should work fine for login/patching in Endwalker according to this statement by Goat:<br><br>
+ <img src="https://i.imgur.com/MjdgH2I.png"><br>
+ 
+ We will be monitoring this closely and provide support if needed.<br><br>
+ 
+ If you are concerned with missing Endwalker due to unforseen issues, installing the native FF14 Launcher installed is always a good back up plan!
+ See you guys on the moon!
+ 
+ <b>FFXIV on Mac CX Team</b>
+ 
+ ---
+ 
+<details> 
+  <summary>Show older items</summary>
+ 
+ <strong>November 24, 2021:</strong>
 
 - <img src="https://i.imgur.com/MkD6117.gif"> New MVK 1.1.6 patched version in public testing for M1 users! <b>(Thanks FleetAdmiralButter)</b>
 
 <strong>November 20, 2021:</strong>
 
 - New community graphic settings section in issue tracker <b>(Thanks FleetAdmiralButter)</b>
-
-<details> 
-  <summary>Show older items</summary>
  
 <strong>November 11, 2021:</strong>
 
