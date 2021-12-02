@@ -8,7 +8,7 @@
  ---
  
  <div align="center">
-  <h6>Join our Discord for Support/Discussion:</h6>
+  <h6><img src="https://i.imgur.com/MkD6117.gif">Join our Discord for Support/Discussion:</h6>
 <p align="center"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
  
  <h6>Or check our Github issue tracker</h6></div>
@@ -46,7 +46,7 @@ Updates & News:
  
  <strong>November 24, 2021:</strong>
 
-- <img src="https://i.imgur.com/MkD6117.gif"> New MVK 1.1.6 patched version in public testing for M1 users! <b>(Thanks FleetAdmiralButter)</b>
+- New MVK 1.1.6 patched version in public testing for M1 users! <b>(Thanks FleetAdmiralButter)</b>
 
 <strong>November 20, 2021:</strong>
 
