@@ -15,9 +15,9 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 
-<strong>November 30, 2021:</strong><br><br>
+<strong>December 2nd, 2021:</strong><br><br>
 <img src="https://i.imgur.com/ifBhD0h.png"><br>
- Endwalker approaches! In less than 3 days, we will all be doing the MSQ once again.<br><br>
+ Endwalker approaches! In less than 1 day away and we will all be doing the MSQ once again.<br><br>
  FF14 on Mac CX issue tracking will be on life support at this time. Meaning, we wont be available to answer questions right away because we will most likely be in game enjoying ourselves.<br><br>
  
  With that being said, here are some issues to expect:<br><br>
