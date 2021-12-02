@@ -6,8 +6,12 @@
 </p></a>
 
  ---
-<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues/new/choose" title="new issue"><img src="https://img.shields.io/badge/Need%20Help%3F-Click%20Here-red?style=for-the-badge" alt="New Issues"></a> 
-<div align="center"> <h6>Or check our issue trackers first:</h6></div>
+ 
+ <div align="center">
+  <h6>Join our Discord for Support/Discussion:</h6>
+<p align="center"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
+ 
+ <h6>Or check our Github issue tracker</h6></div>
 <p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/seathasky/FF14-MAC_ModSupport" alt="Open Issues"></a>  <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues?q=is%3Aissue+is%3Aclosed" title="Closed Issues"><img src="https://img.shields.io/github/issues-closed-raw/seathasky/FF14-MAC_ModSupport?style=flat" alt="Closed Issues"></a> 
 </p>
 
