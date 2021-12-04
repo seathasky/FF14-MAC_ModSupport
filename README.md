@@ -19,12 +19,12 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>December 3nd, 2021:</strong><br>
-<h4>Endwalker is LIVE.</h4> Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord. <br><br>
+<h4>Endwalker is LIVE.</h4> <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br><br>
 
 
 <strong>December 2nd, 2021:</strong><br><br>
 <img src="https://i.imgur.com/ifBhD0h.png"><br>
- Endwalker approaches! In less than 1 day, we will all be doing the MSQ once again.<br><br>
+ <h6>Endwalker approaches! In less than 1 day, we will all be doing the MSQ once again.<br><br>
  FF14 on Mac CX issue tracking will be on life support at this time. Meaning, we wont be available to answer questions right away because we will most likely be in game enjoying ourselves.<br><br>
  
  With that being said, here are some issues to expect:<br><br>
@@ -38,7 +38,7 @@ Updates & News:
 <p align="left"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
  
  If you are concerned with missing Endwalker due to unforseen issues,<br> installing the native FF14 Launcher is always a good back up plan!<br><br>
- See you guys on the moon!
+ See you guys on the moon!</h6>
  
  <b>FFXIV on Mac CX Team</b>
  
