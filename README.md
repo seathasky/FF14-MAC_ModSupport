@@ -18,6 +18,9 @@
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+<strong>December 3nd, 2021:</strong><br>
+<h4>Endwalker is LIVE.</h4> Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord. <br><br>
+
 
 <strong>December 2nd, 2021:</strong><br><br>
 <img src="https://i.imgur.com/ifBhD0h.png"><br>
