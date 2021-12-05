@@ -18,11 +18,14 @@
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+<strong>December 5th, 2021:</strong><br>
+<h6><img src="https://i.imgur.com/MkD6117.gif">We will no longer support native launcher through Crossover or provide steps to install it. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
 <strong>December 3nd, 2021:</strong><br>
-<h4>Endwalker is LIVE.</h4> <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br><br>
-
-
-<strong>December 2nd, 2021:</strong><br><br>
+<h4>Endwalker is LIVE.</h4> <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br>
+<details> 
+  <summary>Show older news</summary>
+ 
+ <strong>December 2nd, 2021:</strong><br><br>
 <img src="https://i.imgur.com/ifBhD0h.png"><br>
  <h6>Endwalker approaches! In less than 1 day, we will all be doing the MSQ once again.<br><br>
  FF14 on Mac CX issue tracking will be on life support at this time. Meaning, we wont be available to answer questions right away because we will most likely be in game enjoying ourselves.<br><br>
@@ -43,9 +46,6 @@ Updates & News:
  <b>FFXIV on Mac CX Team</b>
  
  ---
- 
-<details> 
-  <summary>Show older news</summary>
  
  <strong>November 24, 2021:</strong>
 
@@ -148,18 +148,8 @@ https://github.com/seathasky/FF14-MAC_ModSupport/issues/17#issuecomment-96943660
   
   Continue to step 2 for performance tweaks.</div><br>
   
- <details> 
-  <summary>Manual install method</summary>
-  
-------------------------------------------------------------------------------------------------------------
-  
-**(NOT RECOMMENDED)**<br>
-</h6>Alternatively, you can manually install with our depreciated guide by following the old manual install guide <a href="https://github.com/seathasky/FF14-MAC_ModSupport/blob/main/manual-install.md" manual install>here</a> This guide is for those who want to use the default launcher</h6>
 
-------------------------------------------------------------------------------------------------------------
- 
- </details>
-
+---
 
 <h2>STEP 2:</h2>  <h3>Performance tweaks & FPS display</h3>
 <h5> Performance may vary, and M1 users have reported that they are doubling fps, but using this method has no guarantee... <br>
@@ -357,19 +347,10 @@ We will not support this mod in the Issue tracker at all, so please dont ask. Us
 STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steam account:
 ------------------------------------------------------------------------------------------------------------
  
- <div align="center"><h6>If you want to use a FF14 windows license instead, make sure you patched for it.
+ <div align="center"><h6>If you want to use a FF14 windows license instead, make sure you patched for it.<br>
+  If you did not patch for it during step 1, you can re-run our script and repatch Crossover.
    
-   To make windows license active, add the following key into your registry via `regedit`:
-   <br>
-   <br>
-   
-<p align="center"> 
-<img src="https://i.imgur.com/LreO7Lv.png">
-</p>
-   
-   Vice versa, use HideWineExports = 0 to revert to a Mac license  </h6></div>
- 
- ---
+---
  
 <h6> If you have a Windows Steam account license, you will need to enable this option in XIVLauncher before you login:</h6>
 <p align="center"> 
@@ -380,18 +361,8 @@ STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steam acc
 Troubleshooting:
 ------------------------------------------------------------------------------------------------------------
 
-<h6>So you decided to manually install the game through the old guide with the default launcher? Well, you might run into issues. The native launcher has some issues inside Crossover. You will have to press enter to play after typing your PASSWORD or the launcher freaks out. We reccomend following the main guide as XIVLauncher fixes this.<br><br><br>
-
-If you are using default launcher use these fixes:
-<br><br>
-Open FFXIV_BOOT.cfg and change these settings "Browser = 1"  this fixes the frozen launcher screen on default launcher. Image below:
- <p align="center"> 
-<img src="https://i.imgur.com/VszPBaN.png">
-</p>
-
-------------------------------------------------------------------------------------------------------------
-  
-Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.
+  <h4>Infinite black screen fix:</h4><br>
+  Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.
    <p align="center"> 
 <img src="https://i.imgur.com/knT31A2.png">
 </p>
@@ -433,6 +404,11 @@ External hardrive? Setting up XIVlauncher/FF14 through Crossover 21 on an extern
   <b>Marzent</b> (Head Developer, Support) 
 <p align="left"> <a href="https://github.com/marzent" title="Marzent">
   <img width="90" height="90" src="https://i.imgur.com/t4JeLLA.png"></a>
+</p>      
+  
+  <b>FleetAdmiralButter</b> (Developer, Support) 
+<p align="left"> <a href="https://github.com/FleetAdmiralButter" title="Fleet">
+  <img width="90" height="90" src="https://i.imgur.com/JFgavbs.png"></a>
 </p>      
  
   
