@@ -8,7 +8,7 @@
  ---
  
  <div align="center">
-  <h6><img src="https://i.imgur.com/MkD6117.gif">Join our Discord for Support/Discussion:</h6>
+ <h6><img src="https://i.imgur.com/MkD6117.gif">Join our Discord for Support/Discussion:</h6>
 <p align="center"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
  
  <h6>Or check our Github issue tracker</h6></div>
@@ -19,9 +19,11 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>December 5th, 2021:</strong><br>
-<h6><img src="https://i.imgur.com/MkD6117.gif">We will no longer support native launcher through Crossover or provide steps to install it. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
+- <h6><img src="https://i.imgur.com/MkD6117.gif">We will no longer support native launcher through Crossover or provide steps to install it. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
 <strong>December 3nd, 2021:</strong><br>
-<h4>Endwalker is LIVE.</h4> <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br>
+<h4>Endwalker is LIVE.</h4> 
+
+- <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br>
 <details> 
   <summary>Show older news</summary>
  
