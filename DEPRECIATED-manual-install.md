@@ -1,4 +1,5 @@
-This guide is for those who want to setup FF14 manually through Crossover 21 without the Crosstie.
+This guide is for those who want to setup FF14 manually through Crossover 21 without the Crosstie.<Br>
+WE WILL NOT PROVIDE SUPPORT FOR THIS INSTALL. IF YOU POST ABOUT IT IN ISSUE TRACKER WE WILL CLOSE IT!
 
 <h2>STEP 1:</h2>  
 <h3>Make a new Win 10 x64 bottle by installing x64 dependencies.</h3>
