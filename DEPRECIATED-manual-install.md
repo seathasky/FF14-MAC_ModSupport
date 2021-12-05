@@ -88,7 +88,7 @@ If you want to use XIVLauncher instead, follow the main guide. <br><br>
   
 ---
   
-The default FF14 launcher has some issues, go to our troubleshooting section for help: https://github.com/seathasky/FF14-MAC_ModSupport#troubleshooting
+The default FF14 launcher has issues in Crossover. We will not support this through issue tracking at all! User at your own risk!
   
 ---
 
