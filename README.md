@@ -363,18 +363,19 @@ STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steam acc
 Troubleshooting:
 ------------------------------------------------------------------------------------------------------------
 
-  <h4>Infinite black screen fix:</h4><br>
-  Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.
+  <h5>Infinite black screen fix:</h5>
+  <h6>Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.</h6>
    <p align="center"> 
 <img src="https://i.imgur.com/knT31A2.png">
 </p>
    
 
-Both files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/` </h6>
+<h6>Config files are in `/Users/<username>/Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/` </h6>
 
 ------------------------------------------------------------------------------------------------------------  
-  
-<h6>If you are using a windows license within crossover, make sure to turn OFF HBAO. Leaving this on will cause wierd black textures.</h6>
+ 
+ <h5>Black textures in-game fix:</h5>
+  <h6>If you are using a windows license within crossover, make sure to turn OFF HBAO. Leaving this on will cause wierd black textures.</h6>
   <br>
   
    <p align="center"> 
