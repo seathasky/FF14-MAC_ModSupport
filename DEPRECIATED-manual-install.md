@@ -88,7 +88,7 @@ If you want to use XIVLauncher instead, follow the main guide. <br><br>
   
 ---
   
-The default FF14 launcher has issues in Crossover. We will not support this through issue tracking at all! User at your own risk!
+The default FF14 launcher has issues in Crossover. We will not support this through issue tracking at all! Use at your own risk!
   
 ---
 
