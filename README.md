@@ -292,11 +292,12 @@ You will need this for full overlay support in ACT. Sort of like Hudkit on linux
 ------------------------------------------------------------------------------------------------------------
 <div align="center"><h6>
 Dalamud plugins inside XIVLauncher should work by default if you have patched for XIVLauncher injection.<br><br>
-At the current moment(until Dalamud is fully updated for Endwalker) Dalamud plugins will only inject when set to legacy loading:<Br><br>
+At the start of Endwalker release, Dalamud plugins will only inject when set to legacy loading: (This shouldnt matter when Dalamud is fully updated.)<Br><br>
 <p align="center"> 
 <img src="https://i.imgur.com/ZOTINZY.png">
 </p><br>
-This shouldnt matter when Dalamud is fully updated.<br><br>
+
+---
  
 When Square Enix patches FF14, we usually lose plugin support until Dalamud is updated again. This happens on all platiforms.<br><br>
 If you have XIVlauncher specific errors, you can issue track here: https://github.com/goatcorp/FFXIVQuickLauncher</div>
