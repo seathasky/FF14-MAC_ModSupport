@@ -371,7 +371,7 @@ Troubleshooting:
 ------------------------------------------------------------------------------------------------------------
 
   <h5>Infinite black screen fix:</h5>
-  <h6>Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a reccomened fix while using XIVLauncher.</h6>
+  <h6>Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a recommended fix while using XIVLauncher.</h6>
    <p align="center"> 
 <img src="https://i.imgur.com/knT31A2.png">
 </p>
