@@ -19,7 +19,7 @@
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>December 5th, 2021:</strong><br>
-- <h6><img src="https://i.imgur.com/MkD6117.gif">We will no longer support native launcher through Crossover or provide steps to install it. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
+- <h6><img src="https://i.imgur.com/MkD6117.gif">We will no longer support native launcher (Square Enix launcher) through Crossover but provide a depreciated guide of steps to install it. Use at your own risk! We encourage you to use our main guide. | Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
 <strong>December 3nd, 2021:</strong><br>
 <h4>Endwalker is LIVE.</h4> 
 
