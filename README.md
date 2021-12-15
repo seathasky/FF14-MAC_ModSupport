@@ -18,14 +18,17 @@
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+<strong>December 15th, 2021:</strong><br>
+- <h6><img src="https://i.imgur.com/MkD6117.gif">Updated steps to go back to Mac license after patching for Windows now in Troubleshooting Section.<br> Added to Mac friendly fork for Gshade. </h6> <br>
 <strong>December 5th, 2021:</strong><br>
-- <h6><img src="https://i.imgur.com/MkD6117.gif">We will no longer support native launcher (Square Enix launcher) through Crossover but provide a depreciated guide of steps to install it. Use at your own risk! We encourage you to use our main guide. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
-<strong>December 3nd, 2021:</strong><br>
+- <h6>We will no longer support native launcher (Square Enix launcher) through Crossover but provide a depreciated guide of steps to install it. Use at your own risk! We encourage you to use our main guide. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
+<details> 
+  <summary>Show older news</summary>
+ 
+ <strong>December 3nd, 2021:</strong><br>
 <h4>Endwalker is LIVE.</h4> 
 
 - <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br>
-<details> 
-  <summary>Show older news</summary>
  
  <strong>December 2nd, 2021:</strong><br><br>
 <img src="https://i.imgur.com/ifBhD0h.png"><br>
@@ -306,7 +309,7 @@ If you have XIVlauncher specific errors, you can issue track here: https://githu
 **STEP 5:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
 <div align="center">IMPORTANT: A minority of gshade shaders will tank your performance. Avoid using the 2 clarity presets.</div>
-<div align="center"><h6>Install the Linux script of Gshade into your FF14 bottle. (It works in Mac too) https://gposers.com/gshade/<br><br>
+<div align="center"><h6>Install Marzents fork of gshade using the script into your FF14 bottle. https://github.com/marzent/gshade_installer<br><br>
 Follow the gshade setup and use the prefix from your CX FF14 bottle.
 <p align="center"> 
 <img src="https://i.imgur.com/QCXIT69.png">
@@ -369,7 +372,21 @@ STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steam acc
 ------------------------------------------------------------------------------------------------------------
 Troubleshooting:
 ------------------------------------------------------------------------------------------------------------
-
+ <h5>You patched for Windows but now want to use a Mac License?:</h5>
+  <h6>Go to Applications folder, Right click your Crossover app and click "Show Package Contents"<br><br>
+  <p align="center"> 
+<img src="https://i.imgur.com/xp96V4x.png">
+</p><br>
+  Go to the wine folder and find ntdll.dll: "Contents/SharedSupport/CrossOver/lib64/wine"<br><br>
+    <p align="center"> 
+<img src="https://i.imgur.com/n3HupG4.png">
+</p><br>
+  
+  Delete ntdll.dll and rename the ntdll.dll.bak file to ntdll.dll.<br><br>
+  This will now allow you use to your FF14 Mac license.</h6>
+  
+  --- 
+  
   <h5>Infinite black screen fix:</h5>
   <h6>Open FFXIV.cfg and change these settings "CutsceneMovieOpening = 1". This fixes infinite black screen in game during cutscenes. This is also a recommended fix while using XIVLauncher.</h6>
    <p align="center"> 
