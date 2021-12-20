@@ -5,7 +5,7 @@
  ---
  
  <div align="center">
- <h6><img src="https://i.imgur.com/MkD6117.gif">Join our Discord for Support/Discussion:</h6>
+ <h6><Join our Discord for Support/Discussion:</h6>
 <p align="center"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
  
  <h6>Or check our Github issue tracker</h6></div>
