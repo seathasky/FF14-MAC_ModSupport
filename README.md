@@ -38,7 +38,7 @@ In addition to the above, we're working on our own website and hope to have that
 If you have any questions, please feel free to ask!
 
 Regards,
-The FFXIV on Mac team</h6><br><br>
+  <strong>The FFXIV on Mac team</strong><br><br>
 
 
 <strong>December 15th, 2021:</strong><br>
