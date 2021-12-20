@@ -17,7 +17,7 @@ Updates & News:
 ------------------------------------------------------------------------------------------------------------
 <strong>December 20th, 2021:</strong><br>
 
-Hail, fellow Warriors of Light (or Darkness)!
+<h6>Hail, fellow Warriors of Light (or Darkness)!
 
 We've spent the last few weeks working on something behind the scenes. 
 
@@ -25,7 +25,7 @@ For some background, Crossover has served us very well over the last several mon
 
 However, it is a bit of a process to get Final Fantasy XIV up and running if you want ideal performance. Between replacing libraries and installing patches, there is much room for user error and is still not easy for less technical folks.
 
-Today, we're announcing our new initiative - a standalone Final Fantasy XIV client for the Mac.  This app will contain everything necessary to get you back in Eorzea as quickly as possible - from a custom build of DXVK to reduce stutter and the latest version of MoltenVK with optimisations for Apple M1. No CrossOver needed.
+Today, we're announcing our new initiative - a standalone Final Fantasy XIV app for the Mac.  This app will contain everything necessary to get you back in Eorzea as quickly as possible - from a custom build of DXVK to reduce stutter and the latest version of MoltenVK with optimisations for Apple M1. No CrossOver needed.
 
 Since we are now in charge of shipping the Wine runtime, this also paves the way for even more optimisations in the future.
 
@@ -35,7 +35,7 @@ As with any large undertaking, this will require a significant amount of testing
 
 In addition to the above, we're working on our own website and hope to have that ready to launch in the coming weeks. Stay tuned!
 
-If you have any questions, please feel free to ask!
+ If you have any questions, please feel free to ask!</h6>
 
 Regards,
   <strong>The FFXIV on Mac team</strong><br><br>
