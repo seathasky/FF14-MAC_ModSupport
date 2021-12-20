@@ -1,9 +1,6 @@
 <p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
-<img src="https://i.imgur.com/2IgiL4D.png">
+<img src="https://i.imgur.com/uXQx4rs.png">
 </p>
-<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
-<img src="https://i.imgur.com/WI8Kpgj.png">
-</p></a>
 
  ---
  
@@ -18,12 +15,39 @@
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+<strong>December 20th, 2021:</strong><br>
+
+Hail, fellow Warriors of Light (or Darkness)!
+
+We've spent the last few weeks working on something behind the scenes. 
+
+For some background, Crossover has served us very well over the last several months - it is an excellent product and is probably the best way to run Windows apps on your Mac.
+
+However, it is a bit of a process to get Final Fantasy XIV up and running if you want ideal performance. Between replacing libraries and installing patches, there is much room for user error and is still not easy for less technical folks.
+
+Today, we're announcing our new initiative - a standalone Final Fantasy XIV client for the Mac.  This app will contain everything necessary to get you back in Eorzea as quickly as possible - from a custom build of DXVK to reduce stutter and the latest version of MoltenVK with optimisations for Apple M1. No CrossOver needed.
+
+Since we are now in charge of shipping the Wine runtime, this also paves the way for even more optimisations in the future.
+
+Many users will see performance/FPS gains of almost 2x compared to the vanilla Square Enix client. And of course, mod support is baked right in so you can set up things like ACT with minimal hassle.
+
+As with any large undertaking, this will require a significant amount of testing before we can consider it truly stable. We'll soon make an Alpha version available to everyone in this Discord server, with further instructions to follow. Please help us try it out and report any issues in the testing channel. We're only supporting Windows licenses at this time, with support for Mac licenses coming as part of our public launch.
+
+In addition to the above, we're working on our own website and hope to have that ready to launch in the coming weeks. Stay tuned!
+
+If you have any questions, please feel free to ask!
+
+Regards,
+The FFXIV on Mac team</h6><br><br>
+
+
 <strong>December 15th, 2021:</strong><br>
-- <h6><img src="https://i.imgur.com/MkD6117.gif">Updated steps to go back to Mac license after patching for Windows now in Troubleshooting Section.<br> Added to Mac friendly fork for Gshade. </h6> <br>
-<strong>December 5th, 2021:</strong><br>
-- <h6>We will no longer support native launcher (Square Enix launcher) through Crossover but provide a depreciated guide of steps to install it. Use at your own risk! We encourage you to use our main guide. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
+- <h6>Updated steps to go back to Mac license after patching for Windows now in Troubleshooting Section.<br> Added to Mac friendly fork for Gshade. </h6>
 <details> 
-  <summary>Show older news</summary>
+  <summary>Show older news</summary><br>
+ 
+ <strong>December 5th, 2021:</strong><br>
+- <h6>We will no longer support native launcher (Square Enix launcher) through Crossover but provide a depreciated guide of steps to install it. Use at your own risk! We encourage you to use our main guide. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
  
  <strong>December 3nd, 2021:</strong><br>
 <h4>Endwalker is LIVE.</h4> 
