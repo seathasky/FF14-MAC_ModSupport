@@ -31,7 +31,7 @@ Since we are now in charge of shipping the Wine runtime, this also paves the way
 
 Many users will see performance/FPS gains of almost 2x compared to the vanilla Square Enix client. And of course, mod support is baked right in so you can set up things like ACT with minimal hassle.
 
-As with any large undertaking, this will require a significant amount of testing before we can consider it truly stable. We'll soon make an Alpha version available to everyone in our Discord server, with further instructions to follow. Please help us try it out and report any issues in the testing channel. We're only supporting Windows licenses at this time, with support for Mac licenses coming as part of our public launch.
+As with any large undertaking, this will require a significant amount of testing before we can consider it truly stable. We'll soon make an Alpha version available to everyone in our Discord server, with further instructions to follow. Please help us try it out and report any issues in the testing channel.
 
 In addition to the above, we're working on our own website and hope to have that ready to launch in the coming weeks. Stay tuned!
 
