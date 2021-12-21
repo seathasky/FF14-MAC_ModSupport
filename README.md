@@ -95,7 +95,7 @@ Regards,
 - <h6>New easy install.command method. MoltenVK update method now included in patcher for even more performance.</h6>
 
 <strong>November 2, 2021:</strong> 
- -<h6> New Crossover crosstie install now default method. Step #'s have changed in process. </h6> 
+- <h6> New Crossover crosstie install now default method. Step #'s have changed in process. </h6> 
 
 <strong>November 1, 2021:</strong> 
  - <h6>Dalamud plugins are now fixed on Mac and Linux. </h6>
