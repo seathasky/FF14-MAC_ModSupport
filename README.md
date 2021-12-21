@@ -78,34 +78,31 @@ Regards,
  
  <strong>November 24, 2021:</strong>
 
-- New MVK 1.1.6 patched version in public testing for M1 users! <b>(Thanks FleetAdmiralButter)</b>
+- <h6>New MVK 1.1.6 patched version in public testing for M1 users! </h6>
 
 <strong>November 20, 2021:</strong>
 
-- New community graphic settings section in issue tracker <b>(Thanks FleetAdmiralButter)</b>
+ - <h6>New community graphic settings section in issue tracker.</h6>
  
 <strong>November 11, 2021:</strong>
 
-- Added DXVK update, and Public testing to performance section
-
--  &nbsp;&nbsp;⚠️&nbsp;&nbsp;&nbsp; If you own a FF14 Mac license and cannot login after XIVLauncher update
-  please go [here](https://github.com/seathasky/FF14-MAC_ModSupport/issues/15) to fix 
+ - <h6>Added DXVK update, and Public testing to performance section.</h6>
  
 <strong>November 10, 2021:</strong>
-- Seperate branch of ffxiv-on-mac patching now available for m1 users. 
+ - <h6>Seperate branch of ffxiv-on-mac patching now available for m1 users. </h6>
  
 <strong>November 7, 2021:</strong>
-- New easy install.command method. MoltenVK update method now included in patcher for even more performance.
+- <h6>New easy install.command method. MoltenVK update method now included in patcher for even more performance.</h6>
 
 <strong>November 2, 2021:</strong> 
-- New Crossover crosstie install now default method. Step #'s have changed in process.  
+ -<h6> New Crossover crosstie install now default method. Step #'s have changed in process. </h6> 
 
 <strong>November 1, 2021:</strong> 
-- Dalamud plugins are now fixed on Mac and Linux.   
-- <strike>Temporary issues with Dalamud plugins in XIVLauncher. https://github.com/seathasky/FF14-MAC_ModSupport/issues/5</strike>
+ - <h6>Dalamud plugins are now fixed on Mac and Linux. </h6>
+- <h6><strike>Temporary issues with Dalamud plugins in XIVLauncher. https://github.com/seathasky/FF14-MAC_ModSupport/issues/5</strike></h6>
 
 <strong>October 30, 2021:</strong>
-- FF14 on MAC w/ Full Mod Support Guide via Crossover 21 complete.
+ - <h6>FF14 on MAC w/ Full Mod Support Guide via Crossover 21 complete.</h6>
 </details>
 
 
