@@ -15,6 +15,10 @@
 ------------------------------------------------------------------------------------------------------------
 Updates & News:
 ------------------------------------------------------------------------------------------------------------
+<strong>December 24th, 2021:</strong><br>
+  <h6>New website and XIV on Mac Application coming soon!</h6>
+  <img src="https://i.imgur.com/zq4NkEs.png"><br>
+ 
 <strong>December 20th, 2021:</strong><br>
 
 <h6>Hail, fellow Warriors of Light (or Darkness)!
