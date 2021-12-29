@@ -334,33 +334,11 @@ If you have XIVlauncher specific errors, you can issue track here: https://githu
 **STEP 5:** - Gshade:
 ------------------------------------------------------------------------------------------------------------
 <div align="center">IMPORTANT: A minority of gshade shaders will tank your performance. Avoid using the 2 clarity presets.</div>
-<div align="center"><h6>Install Marzents fork of gshade using the script into your FF14 bottle. https://github.com/marzent/gshade_installer<br><br>
+<div align="center"><h6>Install the Linux script of Gshade into your FF14 bottle. (It works in Mac too) https://gposers.com/gshade/<br><br>
 Follow the gshade setup and use the prefix from your CX FF14 bottle.
 <p align="center"> 
 <img src="https://i.imgur.com/QCXIT69.png">
-</p>  
-  
-After install, open wine configuration:</h6>
-<br><br>
-<p align="center"> 
-<img src="https://i.imgur.com/oBp3UPL.png">
-</p>
-
-------------------------------------------------------------------------------------------------------------
-<h6>Add these overrides and edit their load orders:<b5>
-<br><br>
-
-New override for library: d3dcompiler_47 - edit to (native)
-  <p align="center"> 
-<img src="https://i.imgur.com/BZGFwPw.png">
-</p>
-
-New override for library: dxgi - edit to (native, builtin)
-<p align="center"> 
-<img src="https://i.imgur.com/hCykZj8.png">
-</p>
-
-After these have been overridden, restart crossover. These need to be set prior to running game and after installing Gshade.</h6></div>
+ </p></div>
   
 ------------------------------------------------------------------------------------------------------------
 STEP 6: Anamnesis (aka) CMTool Mod
