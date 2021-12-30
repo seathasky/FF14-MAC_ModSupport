@@ -3,7 +3,7 @@
 
 <p align="center">This guide is now depreciated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
  
- <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
+ <a href="https://github.com/marzent/XIV-on-Mac" title="XIV-On-Mac">
  <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="128" height="128"> <br>
 <a href="https://github.com/marzent/XIV-on-Mac">XIV on Mac Application</a></p>
  
