@@ -1,7 +1,7 @@
 <h1><p align="center">XIV on Mac Crossover Guide (DEPRECIATED)</p></h1><br>
 
 
-<p align="center">This guide is now depreciated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
+<p align="center">This guide is now depreciated. Please check our latest project below <br>or visit our website www.xivmac.com <b>(SOON)</b> for details about our team and latest Mac application.<br>
  
  <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
  <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="128" height="128"> <br>
