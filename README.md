@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
-<img src="https://i.imgur.com/uXQx4rs.png">
+ <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="256" height="256"> 
 </p>
 
  ---
