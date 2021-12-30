@@ -1,7 +1,12 @@
-<p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
- <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="256" height="256"> 
-</p>
+<h1><p align="center">XIV on Mac CX Guide (DEPRECIATED)</p></h1><br>
 
+
+<p align="center">This guide is now depreciated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
+ 
+ <a href="https://github.com/seathasky/FF14-MAC_ModSupport" title="FF14-Mac_ModSupport">
+ <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="128" height="128"> <br>
+<a href="https://github.com/marzent/XIV-on-Mac">XIV on Mac Application</a></p>
+ 
  ---
  
  <div align="center">
@@ -11,104 +16,6 @@
  <h6>Or check our Github issue tracker</h6></div>
 <p align="center"> <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/seathasky/FF14-MAC_ModSupport" alt="Open Issues"></a>  <a href="https://github.com/seathasky/FF14-MAC_ModSupport/issues?q=is%3Aissue+is%3Aclosed" title="Closed Issues"><img src="https://img.shields.io/github/issues-closed-raw/seathasky/FF14-MAC_ModSupport?style=flat" alt="Closed Issues"></a> 
 </p>
-
-------------------------------------------------------------------------------------------------------------
-Updates & News:
-------------------------------------------------------------------------------------------------------------
-<strong>December 24th, 2021:</strong><br>
-  <h6>New website and "XIV on Mac Application" coming soon!</h6>
-  <img src="https://i.imgur.com/zq4NkEs.png"><br>
- 
-<strong>December 20th, 2021:</strong><br>
-
-<h6>Hail, fellow Warriors of Light (or Darkness)!
-
-We've spent the last few weeks working on something behind the scenes. 
-
-For some background, Crossover has served us very well over the last several months - it is an excellent product and is probably the best way to run Windows apps on your Mac.
-
-However, it is a bit of a process to get Final Fantasy XIV up and running if you want ideal performance. Between replacing libraries and installing patches, there is much room for user error and is still not easy for less technical folks.
-
-Today, we're announcing our new initiative - a standalone Final Fantasy XIV app for the Mac.  This app will contain everything necessary to get you back in Eorzea as quickly as possible - from a custom build of DXVK to reduce stutter and the latest version of MoltenVK with optimisations for Apple M1. No CrossOver needed.
-
-Since we are now in charge of shipping the Wine runtime, this also paves the way for even more optimisations in the future.
-
-Many users will see performance/FPS gains of almost 2x compared to the vanilla Square Enix client. And of course, mod support is baked right in so you can set up things like ACT with minimal hassle.
-
-As with any large undertaking, this will require a significant amount of testing before we can consider it truly stable. We'll soon make an Alpha version available to everyone in our Discord server, with further instructions to follow. Please help us try it out and report any issues in the testing channel.
-
-In addition to the above, we're working on our own website and hope to have that ready to launch in the coming weeks. Stay tuned!
-
- If you have any questions, please feel free to ask!</h6>
-
-Regards,
-  <strong>The FFXIV on Mac team</strong><br><br>
-
-
-<strong>December 15th, 2021:</strong><br>
-- <h6>Updated steps to go back to Mac license after patching for Windows now in Troubleshooting Section.<br> Added to Mac friendly fork for Gshade. </h6>
-<details> 
-  <summary>Show older news</summary><br>
- 
- <strong>December 5th, 2021:</strong><br>
-- <h6>We will no longer support native launcher (Square Enix launcher) through Crossover but provide a depreciated guide of steps to install it. Use at your own risk! We encourage you to use our main guide. Updated steps on windows licence. General guide cleanup, removed outdated info, troubleshooting etc. Updated developer hyperlinks.</h6> <br>
- 
- <strong>December 3nd, 2021:</strong><br>
-<h4>Endwalker is LIVE.</h4> 
-
-- <h6>Seems like everything is working so far. We will continue to monitor the issue tracker at a snail pace. If you need faster support, join our Discord.</h6> <br>
- 
- <strong>December 2nd, 2021:</strong><br><br>
-<img src="https://i.imgur.com/ifBhD0h.png"><br>
- <h6>Endwalker approaches! In less than 1 day, we will all be doing the MSQ once again.<br><br>
- FF14 on Mac CX issue tracking will be on life support at this time. Meaning, we wont be available to answer questions right away because we will most likely be in game enjoying ourselves.<br><br>
- 
- With that being said, here are some issues to expect:<br><br>
- Dalamud Plugins (XIVLauncher Plugins) will most likely not work until updated. I'd keep an eye on the goat place discord for more info on that. Advice would be to redo your UI now in prep for that, especially if you use stuff like DelvUI.<br><br>
- 
- XIVLauncher should work fine for login/patching in Endwalker according to this statement by Goat:<br><br>
- <img src="https://i.imgur.com/MjdgH2I.png"><br>
- We will be monitoring this closely and provide support notices if needed.<br><br>
- 
- Join us on our new Discord server for faster updates:
-<p align="left"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
- 
- If you are concerned with missing Endwalker due to unforseen issues,<br> installing the native FF14 Launcher is always a good back up plan!<br><br>
- See you guys on the moon!</h6>
- 
- <b>FFXIV on Mac CX Team</b>
- 
- ---
- 
- <strong>November 24, 2021:</strong>
-
-- <h6>New MVK 1.1.6 patched version in public testing for M1 users! </h6>
-
-<strong>November 20, 2021:</strong>
-
- - <h6>New community graphic settings section in issue tracker.</h6>
- 
-<strong>November 11, 2021:</strong>
-
- - <h6>Added DXVK update, and Public testing to performance section.</h6>
- 
-<strong>November 10, 2021:</strong>
- - <h6>Seperate branch of ffxiv-on-mac patching now available for m1 users. </h6>
- 
-<strong>November 7, 2021:</strong>
-- <h6>New easy install.command method. MoltenVK update method now included in patcher for even more performance.</h6>
-
-<strong>November 2, 2021:</strong> 
-- <h6> New Crossover crosstie install now default method. Step #'s have changed in process. </h6> 
-
-<strong>November 1, 2021:</strong> 
- - <h6>Dalamud plugins are now fixed on Mac and Linux. </h6>
-- <h6><strike>Temporary issues with Dalamud plugins in XIVLauncher. https://github.com/seathasky/FF14-MAC_ModSupport/issues/5</strike></h6>
-
-<strong>October 30, 2021:</strong>
- - <h6>FF14 on MAC w/ Full Mod Support Guide via Crossover 21 complete.</h6>
-</details>
-
 
 ------------------------------------------------------------------------------------------------------------
 
