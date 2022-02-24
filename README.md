@@ -3,7 +3,7 @@
 
 <p align="center">This guide is now deprecated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
  
- <a href="https:/www.xivmac.com/" title="XIV On Mac Website">
+ <a href="https://www.xivmac.com/" title="XIV On Mac Website">
  <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="228" height="228"></a> <br>
 <a href="https://github.com/marzent/XIV-on-Mac">XIV on Mac Application</a></p>
  
