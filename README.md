@@ -5,7 +5,7 @@
  
  <a href="https://www.xivmac.com/" title="XIV On Mac Website">
  <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="228" height="228"></a> <br>
-<a href="https://github.com/marzent/XIV-on-Mac">XIV on Mac Application</a></p>
+<a href="https://www.xivmac.com">XIV on Mac Application</a></p>
  
  ---
  
