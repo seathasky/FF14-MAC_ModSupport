@@ -1,5 +1,6 @@
-<h1><p align="center">XIV on Mac Crossover Guide</p></h1><br>
-<h3>NO LONG MAINTAINED!</h3>
+<h1><p align="center">XIV on Mac Crossover Guide</p></h1>
+
+<h3><p align="center">THIS GUIDE IS NO LONGER MAINTAINED!</h3></p>
 
 ------------------------------------------------------------------------------------------------------------
 
