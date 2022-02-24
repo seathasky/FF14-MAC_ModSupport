@@ -1,11 +1,12 @@
 <h1><p align="center">XIV on Mac Crossover Guide (DEPRECATED)</p></h1><br>
 
 
-<p align="center">This guide is now deprecated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
+<p align="center">This guide is now deprecated. Please check our latest project below or visit our website:<br> https://www.xivmac.com for details about our team and latest Mac application <br><br>
+<p align="center">or click the launcher image below</p></h6>
  
  <a href="https://www.xivmac.com/" title="XIV On Mac Website">
- <img src="https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/xivmac.png"> alt="XIV on MAC"</a> <br>
-<a href="https://www.xivmac.com">XIV on Mac Application</a></p>
+ <img src="https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/xivmac.png"></a> <br>
+
  
  ---
  
