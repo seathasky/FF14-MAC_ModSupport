@@ -1,7 +1,7 @@
 <h1><p align="center">XIV on Mac Crossover Guide (DEPRECATED)</p></h1><br>
 
 
-<p align="center">This guide is now depreciated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
+<p align="center">This guide is now deprecated. Please check our latest project below <br>or visit our website www.xivmac.com for details about our team and latest Mac application.<br>
  
  <a href="https://github.com/marzent/XIV-on-Mac" title="XIV-On-Mac">
  <img src="https://i.imgur.com/L2EETYx.png" alt="XIVonMAC" width="228" height="228"> <br>
