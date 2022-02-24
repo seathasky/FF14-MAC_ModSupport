@@ -5,7 +5,7 @@
 <p align="center">or click the launcher image below</p></h6>
  
  <a href="https://www.xivmac.com/" title="XIV On Mac Website">
- <img src="https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/xivmac.png"></a> <br>
+ <img src="https://raw.githubusercontent.com/seathasky/FF14-MAC_ModSupport/main/xivmac2.png"></a> <br>
 
  
  ---
