@@ -10,8 +10,8 @@
  ---
  
  <div align="center">
- <h6><Join our Discord for Support/Discussion:</h6>
-<p align="center"> <a href="https://discord.gg/ZUTtVXaEXX" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
+ <h4>XIV on Mac Discord for Support/Discussion:</h4>
+<p align="center"> <a href="https://discord.gg/dWN5bTC4Yv" title="new issue"><img src="https://i.imgur.com/aitA8PY.png" alt="New Issues"></a> 
  
 ---
   
